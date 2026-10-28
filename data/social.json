@@ -1,4 +1,805 @@
 {
-  "updated": null,
-  "posts": []
+  "updated": "2026-10-28T06:44:08.577859+00:00",
+  "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myw4t26md527",
+      "text": "The first Silent Hill is getting the Bloober treatment, and a new leak from MP1ST suggests work has been underway since 2022 and the game is targeting a 2027 launch. bit.ly/4yNjZW9",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T06:30:12Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myw3zoiaip2z",
+      "text": "Though not entirely definitive, The Wolf Among Us Remastered is a powerful reminder of why the original game earned its acclaim – and with a sequel on the horizon, it's a brilliant way to revisit or catch up on a neo-noir mystery that still deserves its flowers.\n\nOur review: https://bit.ly/4e3lB6E",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T06:16:01.297745206Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myw3yed7dx24",
+      "text": "You can play The Onion Voting Simulator 3D now",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T06:15:17Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myw35ixedo2h",
+      "text": "Pokemon Unite will end service on March 23, 2027, following the game’s final competition, the Aeos Crown 2027, just two days prior in Tokyo. bit.ly/4dYgDrU",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T06:00:15Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myw35i2cwg2b",
+      "text": "The Superman sequel could introduce Lillard to the DCU in an unexpected way",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T06:00:14Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvzj7in7l2d",
+      "text": "World of Warcraft Forever gets its full release on November 4, and while the MMO will stay tethered to the two vanilla continents, Eastern Kingdoms and Kalimdor, it sounds like future updates could add some of the areas we've visited in the expansions.  https://bit.ly/4BtxGMh",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T05:31:01.230709512Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvyofe5lr2v",
+      "text": "An official perfume set based on Robert Eggers' Werwulf movie is now available for pre-order, designed to represent each stage of a werewolf transformation. https://bit.ly/4evD7R6",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T05:16:01.402006381Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myvxsgv7mx2v",
+      "text": "A hotly-anctipated feature could be coming to the Cyberpunk 2077 sequel",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T05:00:23Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvvd45l5i2d",
+      "text": "A South Korean politician has urged the country's president to play Call of Duty: Modern Warfare 4 to grasp the potential devastation of a North Korean invasion. https://bit.ly/3VYTjUL",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T04:16:01.425798347Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvuibqx5x2w",
+      "text": "David Hayter opened up about his canceled Lost Planet movie adaptation, explaining why it never got off the ground in a throwaway tweet more than a decade after it was first confirmed. https://bit.ly/4BmNyAe",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T04:01:01.337419287Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvssn4kdm2x",
+      "text": "The World of Warcraft Forever name reservation is broken ahead of launch. https://bit.ly/4zfYL4n",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T03:31:01.312147164Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvoptunvw2h",
+      "text": "Heated Rivalry actor Connor Storrie is in talks to play the villain in Ryan Gosling's Ghost Rider movie.\n\nFor more info: https://bit.ly/47M8S4D",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T02:17:52.75571481Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvnrpd2rj2z",
+      "text": "Heated Rivalry actor Connor Storrie is in talks to play the villain in Ryan Gosling's MCU Ghost Rider movie. https://bit.ly/47M8S4D",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T02:01:01.358350802Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myvm2s6kap2b",
+      "text": "The upcoming game will have just as many endings as Peter Jackson’s movie",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T01:30:18Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvlbacfmf27",
+      "text": "Francis Lawrence, who directed the upcoming Hunger Games prequel Sunrise on the Reaping, recently spoke to us about his film, and his hope that we aren't all too distracted by GTA 6 to go to the theater. https://bit.ly/4zdpsqh",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T01:16:01.251650247Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myvig6k7yf2c",
+      "text": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T00:25:04+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvhvyjr6b2v",
+      "text": "From Luffy, Zoro, Nami, Usopp, and Sanji to Buggy the Clown, the new Treasure Hunters trailer gave us our first look at the One Piece collaboration coming to Fortnite.\n\nWatch the trailer here: https://bit.ly/4zfa0tO",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T00:16:02.782809032Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvdptvc2i2v",
+      "text": "A South Korean politician has urged the country's President to play Call of Duty: Modern Warfare 4 to grasp the potential devastation from a North Korean invasion. https://bit.ly/4iakPal",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T23:01:01.623706425Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myvdovh7po2u",
+      "text": "Our Grand Theft Auto VI issue features insights into the biggest game of 2026 that you can’t find anywhere else, and a collectible cover that will look amazing on your table at home. But only if you subscribe in the next week before it’s gone! buff.ly/eAelPm9",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T23:00:29.695Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myvd4b44lf2z",
+      "text": "Review: The Séance Of Blake Manor (Switch 2) - A Special Game, And A Perfect Halloween Treat (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T22:50:02+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvcwstwjk2u",
+      "text": "A few new details on the story for A24’s Elden Ring movie have emerged, including its possible runtime. And, if that remains the case, it’s going to be epic. https://bit.ly/3WR6BCQ",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T22:47:01.668466036Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myv7qxbrq426",
+      "text": "Nintendo Indie World Showcase Announced For Tomorrow, 28th October 2026 (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T21:50:01+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myv7ljpzen27",
+      "text": "Curry Barker, writer and director of the brilliantly twisted Obsession, is releasing a new short film on YouTube on October 29. https://bit.ly/4yEfyN7",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T21:47:01.779340088Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myv6nrgrch22",
+      "text": "'Kingdom Come: Deliverance' developer Warhorse Studios confirmed it was the victim of a major cyberattack.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T21:30:23Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myv5vsd3lg2y",
+      "text": "Phantom Blade Zero is one of the best action games we've ever played, one that recognizes the genre's strengths and weaknesses and addresses both with fantastical Wuxian style. Though the action genre is always jam-packed, few are as special as this. \n\nOur review: gameinformer.com/review/phant...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T21:16:58.848Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myv4yirztk2b",
+      "text": "'Dune: Part 3' just got a new trailer that teases Chani's more crucial role compared to the book.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T21:00:35Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myuwbnqgv42i",
+      "text": "Patch 1.0.8 introduces New Game Plus, Nightmare Mode, and more",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T19:00:26Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myuvp5sm6k2s",
+      "text": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T18:50:04+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3myurwv77z22m",
+      "text": "Big news from the Independent Workers Union of Great Britain: Employees at Rockstar Games in the UK will hold a union vote next month, just as they release Grand Theft Auto VI",
+      "author": "Jason Schreier",
+      "handle": "jasonschreier.bsky.social",
+      "label": "ANALYSIS",
+      "language": "en",
+      "published": "2026-10-27T17:42:50.540Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myurwacils22",
+      "text": "Available now in PlayStation Plus Game Catalog:\n\n🧟‍♀️ Poppy Playtime: Chapter 2\n✨ Tales of Arise - Beyond the Dawn Edition\n🏍️ Monster Energy Supercross 25 - The Official Video Game\n\n…and more. Full details: play.st/4zRYJzf",
+      "author": "PlayStation",
+      "handle": "playstation.com",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-10-27T17:42:28.626Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myupkwxdla24",
+      "text": "Fans could get their hands on the next Silent Hill remake soon",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T17:00:22Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myuma3udjn2j",
+      "text": "Hit snooze on Nocturne — after you read the review",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T16:00:37Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myujlfqczg2i",
+      "text": "A 15-minute Nintendo Indie World will air tomorrow morning, October 28. gameinformer.com/2026/10/27/1...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T15:13:15.271Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myuitzxuok2c",
+      "text": "Review: The Séance Of Blake Manor (Switch 2) - A Special Game, And A Perfect Halloween Treat",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T15:00:08+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myufinz63o2l",
+      "text": "Nintendo Indie World Showcase Announced For Tomorrow, 28th October 2026",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T14:00:06+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myuf7n4vfs2c",
+      "text": "Pokémon Unite Ending Service For Switch In March 2027 (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T13:55:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myudb2aglk26",
+      "text": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T13:20:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myuc5gxv4s2v",
+      "text": "Every Nintendo Switch Online Game Boy (Color) Game Ranked",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T13:00:08+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myuai2d4qo2s",
+      "text": "Wildwood, the book and movie, are a great reason to draw a line",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T12:30:18Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myu54qzi2p22",
+      "text": "It's unfair that some of the darkest and most creative games the industry has ever produced are locked away on old consoles.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T11:30:18Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myu4kj5xvx26",
+      "text": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T11:20:04+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myu3gvem2e2c",
+      "text": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T11:00:09+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myttvewpil2k",
+      "text": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T08:45:05+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mytm2yd74s2r",
+      "text": "Pokémon Unite Ending Service For Switch And Mobile In March 2027",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T06:25:04+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mytk4er2kg2s",
+      "text": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T05:50:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mytcc3gnse2v",
+      "text": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T03:30:04+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myt6evajup2m",
+      "text": "Nintendo's New Switch 2 Ad Is As Wholesome As They Come (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T02:20:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myt5jztzi62r",
+      "text": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T02:05:02+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myt4p7cmna2c",
+      "text": "Community: 42 Switch Games We Missed, As Recommended By You (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T01:50:02+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3myt2zo4eqi2c",
+      "text": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-27T01:20:04+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myscw2ay5v23",
+      "text": "Ghost of Yōtei developer Sucker Punch reportedly hit with layoffs as it prepares for its next project. gameinformer.com/2026/10/26/r...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-26T18:08:36.664Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myrhst4uzs2x",
+      "text": "Celebrate Helldivers 2 Liberty Day 2026 with in-game gifts starting today 🫡\n\nLearn about the Retro rifle gift, community minigames, ship adornments, Super Merch, and more: play.st/4yDuwmv",
+      "author": "PlayStation",
+      "handle": "playstation.com",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-10-26T10:03:37.508Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myqg3wy76z2m",
+      "text": "\"Phantom Blade Zero is, so far, an astounding achievement for the action genre, but I need more time to see if it sticks the landing.\" \n\nRead our Phantom Blade Zero review in progress here: gameinformer.com/review-in-pr...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-26T00:00:16.307Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myqbvnonmi2y",
+      "text": "This week, we learned that EA is closing one of the industry’s most legendary RPG studios, BioWare. Look back on the team’s history with our in-depth retrospective, now free for all readers: gameinformer.com/feature/2026...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-25T22:45:10.264Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myq2eb2eed2u",
+      "text": "While the campaign’s plot execution is a bit shaky, engaging multiplayer options, including DMZ, aptly demonstrate that Infinity Ward can still deliver compelling military-FPS experiences. \n\nOur Call of Duty: Modern Warfare 4 review: gameinformer.com/review/call-...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-25T20:30:10.392Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mypqcz2nxk2i",
+      "text": "We got hands-on with Yakuza developer RGG’s next game, Stranger Than Heaven, and spoke with the team about the protagonist’s bicultural story, love of music, struggle to fit in, and why it spans 50 years. \n\nHere’s what we learned: gameinformer.com/preview/2026...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-25T17:30:31.044Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myposqmsue24",
+      "text": "🎨 Game Informer Reader Art Spotlight: Kirby artwork by Jakylynn Crowder, age 11\n\nWant your artwork featured on our social media or in our magazine? If so, submit your art to our Reader Art contest at readerart@gameinformer.com. Entries become the property of Game Informer.",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-25T17:03:31.592Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mypffzub3k2g",
+      "text": "Nintendo Switch Sports Resort delivers a capable compilation of quick-hit sports minigames that can easily be enjoyed regardless of how many people are holding Joy-Cons. Our review: gameinformer.com/review/ninte...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-25T14:15:21.386Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mynscgrdrc2m",
+      "text": "There are a lot of wild moments in Control Resonant, but we spoke to Remedy specifically about the game’s wildest, most memorable, and unexpected sequence, including what it inspired it. Here’s what we learned: gameinformer.com/interview/20...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-24T23:00:39.874Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myniavmotl2v",
+      "text": "Halloween is right around the corner, so you should play a spooky game this weekend! Might we recommend the survival horror FMV game Tenebris Somnia? \n\nRead our review here: gameinformer.com/review/teneb...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-24T20:00:50.921Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myn6au3uhq2i",
+      "text": "ICYMI: We saw a lot of new indies at this week’s Xbox indie showcase. Here’s a recap of the games shown during the October ID@Xbox presentation: gameinformer.com/2026/10/20/h...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-24T17:01:51.916Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mymu5l4x562h",
+      "text": "Looking for a turn-based Final Fantasy RPG with HD-2D graphics this weekend? Check out Final Fantasy Resonance and read our review of it while it downloads: gameinformer.com/review/final...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-24T14:01:04.422Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mylc7lybsz2t",
+      "text": "This week on The Game Informer Show, @brianaltano.bsky.social joins us to talk all about bsky.app/profile/xbut...! Then we talk Switch Sports Resort, horror games, and BioWare's closure.\n\nCheck it out here: gameinformer.com/video-podcas...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-23T23:07:25.338Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myl6hduyv22r",
+      "text": "The bombardment of video game releases is not slowing down. Here's what stood out for us this week. gameinformer.com/opinion/2026...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-23T22:00:10.306Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mykxqzi3x32r",
+      "text": "\"It was a very polarizing sequence in the playtests: people either loved or hated it.\"\n\nWe spoke to Remedy about Control Resonant's most memorable and unexpected late-game sequence. Spoilers ahead. gameinformer.com/interview/20...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-23T20:00:18.746Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3mykrmmh7322b",
+      "text": "It's time to go, Operators\n\nExplore campaign, DMZ, and multiplayer in Call of Duty: Modern Warfare 4, out now on PS5: play.st/4Ab9Dk7",
+      "author": "PlayStation",
+      "handle": "playstation.com",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-10-23T18:10:28.436Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:4nci4ly3xu3nau7hzr373bte/post/3mykpog2z2m23",
+      "text": "Alan Wake 2 is the perfect horror game to play this October.\n\nTwo heroes. Two worlds. A darkness coming for them both.\n\nAvailable on PlayStation 5, XBOX Series X|S, and PC via the Epic Games Store.\n\n#AlanWake2",
+      "author": "Remedy Entertainment",
+      "handle": "remedygames.com",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-10-23T17:35:41.075Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3mykjvhv5wk2p",
+      "text": "Let me share some positive news for a change: Despite all the gloomy headlines today, my understanding is that there are multiple paths actively being explored that would save Arkane Lyon. Anything can happen during negotiations, but at this point I'd be surprised if the studio is shut down.",
+      "author": "Jason Schreier",
+      "handle": "jasonschreier.bsky.social",
+      "label": "ANALYSIS",
+      "language": "en",
+      "published": "2026-10-23T15:52:15.706Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myjc43alkc2s",
+      "text": "Backed up by a fun campaign, thrilling multiplayer, and loads of new modes and content, Call of Duty: Modern Warfare 4 serves as a solid sendoff for the rebooted subseries. \n\nOur review: gameinformer.com/review/call-...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-23T04:00:07.633Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myime7j27h25",
+      "text": "Following BioWare's closure, a trailer for the now-cancelled Mass Effect 5 appears to have leaked online. Reporters from IGN and Bloomberg claim the footage is legitimate. gameinformer.com/report/2026/...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-22T21:30:58.229Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myi7cfqocz2y",
+      "text": "Tenebris Somnia's effective blend of classic adventure game design and live-action filmmaking results in a captivating, spooky, and well-crafted adventure. Our review: gameinformer.com/review/teneb...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-22T17:37:19.027Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3myi6wo57ns2f",
+      "text": "Can confirm that this is a real trailer of the Mass Effect game that BioWare was developing up until its closure yesterday www.reddit.com/r/masseffect...",
+      "author": "Jason Schreier",
+      "handle": "jasonschreier.bsky.social",
+      "label": "ANALYSIS",
+      "language": "en",
+      "published": "2026-10-22T17:30:45.178Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myi4cu3zsq2d",
+      "text": "Dispatch's 1-year anniversary update adds commentary tracks and a storyboard mode to the game, which will get a mobile port in December. gameinformer.com/2026/10/22/d...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-22T16:43:52.846Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:h5w6pcocd77sfvhhzhgmzncu/post/3myi3ibfm7s2x",
+      "text": "One of my holy grail games for our Audio Logs series was Mass Effect 2. We spoke with Lead Writer Mac Walters, who walked us through the game’s design and character docs. Feels like a good time to reshare it:\n\nyoutu.be/lhC46YsFDR0?...",
+      "author": "Lucy James",
+      "handle": "lucyjames.games",
+      "label": "ANALYSIS",
+      "language": "en",
+      "published": "2026-10-22T16:29:00.832Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myhxa2bsfg2s",
+      "text": "Update 1.1 for The Blood of Dawnwalker drops today, adding bug fixes, performance enhancements, and some quality of life improvements. You can also pet cats and dogs now. gameinformer.com/2026/10/22/t...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-22T15:12:49.952Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myhvozscyc2q",
+      "text": "Celebrating three decades of The Real Driving Simulator\n\nThe Gran Turismo Limited Edition DualSense wireless controller launches December 10. Pre-orders are live today: play.st/4yWPFJs",
+      "author": "PlayStation",
+      "handle": "playstation.com",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-10-22T14:45:25.293Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myhta7ccx223",
+      "text": "Sharpen your in-game photography skills with this Marvel's Wolverine photo mode guide.\n\nIncludes tips on lighting, posing, and Action Figure mode: play.st/488yVmJ",
+      "author": "PlayStation",
+      "handle": "playstation.com",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-10-22T14:01:20.260Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myhmk2yn522a",
+      "text": "Celebrate 30 years of Lara Croft's PlayStation adventures 🎒\n\nLearn how she's being reimagined in Tomb Raider: Legacy of Atlantis play.st/4zGbAVc",
+      "author": "PlayStation",
+      "handle": "playstation.com",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-10-22T12:01:35.099Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myfyimezmw24",
+      "text": "In 2016, we published potentially the largest single feature to ever appear in Game Informer magazine with a full oral history of the legendary studio, BioWare.\n\nWe've made that feature available online following reports of the studio's impending closure. gameinformer.com/feature/2026...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-21T20:30:11.620Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myfrfyyawr2f",
+      "text": "Electronic Arts is shuttering RPG maker BioWare and canceling the next Mass Effect, amid a new round of layoffs at the publisher.\n\nNews here: gameinformer.com/2026/10/21/e...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-21T18:23:27.991Z",
+      "platform": "Bluesky"
+    }
+  ]
 }
