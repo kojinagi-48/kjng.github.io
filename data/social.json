@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-28T08:57:19.488945+00:00",
+  "updated": "2026-10-28T10:53:22.443705+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mywka2kmgc2m",
+      "text": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T10:30:06+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mywf7d6xxc2a",
+      "text": "Preorders have opened for PlayStation: The First 30 Years, a physical book honoring the gaming giant’s tenured history, but fans aren't exactly in a celebratory mood. bit.ly/4stVStR",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T09:00:14Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mywbu2art72d",
       "text": "The final trailer for Dune: Part Three reveals just how different this sequel will be from the books, and it all centers around Zendaya's Chani and her children. bit.ly/4kl1epe",
@@ -856,28 +878,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-22T15:12:49.952Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myhvozscyc2q",
-      "text": "Celebrating three decades of The Real Driving Simulator\n\nThe Gran Turismo Limited Edition DualSense wireless controller launches December 10. Pre-orders are live today: play.st/4yWPFJs",
-      "author": "PlayStation",
-      "handle": "playstation.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nfshkzomgboapasu6amkhui/bafkreic6hd57x7uoxrzsjku76stwatskovjznvevuq4n4rdzmkd7se25n4",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-10-22T14:45:25.293Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myhta7ccx223",
-      "text": "Sharpen your in-game photography skills with this Marvel's Wolverine photo mode guide.\n\nIncludes tips on lighting, posing, and Action Figure mode: play.st/488yVmJ",
-      "author": "PlayStation",
-      "handle": "playstation.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nfshkzomgboapasu6amkhui/bafkreic6hd57x7uoxrzsjku76stwatskovjznvevuq4n4rdzmkd7se25n4",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-10-22T14:01:20.260Z",
       "platform": "Bluesky"
     }
   ]
