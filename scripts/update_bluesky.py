@@ -61,7 +61,7 @@ def main():
             rkey = uri.rsplit("/", 1)[-1]
             url = "https://bsky.app/profile/" + urllib.parse.quote(author.get("did", handle), safe=":") + "/post/" + urllib.parse.quote(rkey, safe="")
             published = record.get("createdAt") or post.get("indexedAt") or ""
-            posts.append({"url": url, "text": text[:500], "author": author.get("displayName") or handle, "handle": handle, "label": label, "language": "en", "published": published, "platform": "Bluesky"})
+            posts.append({"url": url, "text": text[:500], "author": author.get("displayName") or handle, "handle": handle, "avatar": author.get("avatar") or "", "label": label, "language": "en", "published": published, "platform": "Bluesky"})
     if successful == 0:
         if old:
             print("All Bluesky sources unavailable; retaining previous data.")
