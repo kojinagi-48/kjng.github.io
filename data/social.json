@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-28T06:44:08.577859+00:00",
+  "updated": "2026-10-28T07:01:32.952094+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myw6iqjalx27",
+      "text": "Warhorse Studios — the developer behind Kingdom Come: Deliverance, its sequel and an upcoming Lord of the Rings RPG — has been hit by a “serious” cyberattack. bit.ly/3W7N94M",
+      "author": "IGN",
+      "handle": "ign.com",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-28T07:00:14Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myw4t26md527",
       "text": "The first Silent Hill is getting the Bloober treatment, and a new leak from MP1ST suggests work has been underway since 2022 and the game is targeting a 2027 launch. bit.ly/4yNjZW9",
@@ -789,16 +799,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-21T20:30:11.620Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3myfrfyyawr2f",
-      "text": "Electronic Arts is shuttering RPG maker BioWare and canceling the next Mass Effect, amid a new round of layoffs at the publisher.\n\nNews here: gameinformer.com/2026/10/21/e...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-21T18:23:27.991Z",
       "platform": "Bluesky"
     }
   ]
