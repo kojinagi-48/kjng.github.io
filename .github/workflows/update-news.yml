@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/update_news.py'
+      - 'scripts/update_bluesky.py'
       - '.github/workflows/update-news.yml'
   schedule:
     - cron: '17 */2 * * *'
@@ -23,11 +24,13 @@ jobs:
           python-version: '3.12'
       - name: Fetch and normalize RSS headlines
         run: python scripts/update_news.py
+      - name: Fetch Bluesky social posts
+        run: python scripts/update_bluesky.py
       - name: Commit feed if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add data/news.json data/social.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh pop culture news"
             git push
