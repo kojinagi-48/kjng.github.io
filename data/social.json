@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-29T07:03:16.835615+00:00",
+  "updated": "2026-10-29T08:59:08.718960+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myyscwu5hc27",
+      "text": "World of Warcraft Forever has opted for a slower update schedule than the modern version of World of Warcraft's 8-Week patch cycle. bit.ly/3UQxh6g",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-29T08:00:13Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myyqniix7o2j",
+      "text": "The film versions may be fantastic, but sometimes the book is just better",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-29T07:30:20Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myyoxoy4pi2w",
       "text": "IGN can exclusively reveal the first trailer for Winnie-the-Pooh: Blood and Honey 3, which director Scott Chambers calls “absolute carnage.” The slasher sequel will open in late January 2027. bit.ly/4suWwY1",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-28T05:31:01.230709512Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myvyofe5lr2v",
-      "text": "An official perfume set based on Robert Eggers' Werwulf movie is now available for pre-order, designed to represent each stage of a werewolf transformation. https://bit.ly/4evD7R6",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-28T05:16:01.402006381Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myvxsgv7mx2v",
-      "text": "A hotly-anctipated feature could be coming to the Cyberpunk 2077 sequel",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-28T05:00:23Z",
       "platform": "Bluesky"
     }
   ]
