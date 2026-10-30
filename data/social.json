@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-30T16:54:15.051683+00:00",
+  "updated": "2026-10-30T18:53:44.414341+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz4fzszzwa2z",
+      "text": "Eiji Aonuma, producer of the Zelda series, has said some of the younger members of his team had never played the original Ocarina of Time, but insisted that was very much a good thing for the development of the remake. https://bit.ly/3W20v2t",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-30T18:31:01.924728969Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mz4ecokah62l",
+      "text": "Best Nintendo Switch 1 & 2 Horror Games",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-30T18:00:07+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz4cojh6lt2d",
+      "text": "The Legend of Zelda Edition Nintendo Switch Pro Controller has dropped to $55.99 ahead of Black Friday. https://bit.ly/4ilHwao",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-30T17:31:01.530704067Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mz4a4jvwqz26",
       "text": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-29T14:30:19Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myzh4a4bls2h",
-      "text": "FromSoftware has announced a delay of The Duskbloods to 2027. \n\nThe Nintendo Switch 2 exclusive was due out by the end of 2026. https://bit.ly/4sBGiNa",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-29T14:12:17.262695879Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3myzgilukns2w",
-      "text": "Pre-orders for the PlayStation Pulse wireless headset (White and Midnight Black) begin today 🎧\n\nLearn more ahead of the November 19 launch: play.st/4hZ9PN5",
-      "author": "PlayStation",
-      "handle": "playstation.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nfshkzomgboapasu6amkhui/bafkreic6hd57x7uoxrzsjku76stwatskovjznvevuq4n4rdzmkd7se25n4",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-10-29T14:01:18.520Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3myzgi4twtb2u",
-      "text": "Check out 12 minutes of developer-narrated gameplay from Steel Core, an upcoming tactical turn-based mech strategy game: https://bit.ly/3W7nXeE",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-29T14:01:02.758324594Z",
       "platform": "Bluesky"
     }
   ]
