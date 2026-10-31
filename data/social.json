@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-31T02:53:35.386418+00:00",
+  "updated": "2026-10-31T04:51:29.903213+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz5cjqt6rc2a",
+      "text": "Have you seen all of our top 15 movie picks in the undead genre? These are the best zombie movies ever: https://bit.ly/453cc7I",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-31T03:01:01.240354039Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz5bowhzvj2x",
       "text": "You can save 20% or more on Minecraft Dungeons 2 for Nintendo Switch 2 ahead of Black Friday. https://bit.ly/4erx0NV",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-29T19:01:02.739988963Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3myzvjltvvo2h",
-      "text": "The Ghoul offers a much-needed update on Fallout season 3",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-29T18:30:18Z",
       "platform": "Bluesky"
     }
   ]
