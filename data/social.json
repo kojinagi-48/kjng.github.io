@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-31T18:50:36.582192+00:00",
+  "updated": "2026-10-31T20:43:19.886141+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mz73ktawlq2y",
+      "text": "There’s quite literally no better day to play Illfonic’s Halloween: The Game. Read our review of it to find out why it could be your new favorite spooky-season multiplayer game: gameinformer.com/review/hallo...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-31T20:01:40.624Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mz73ipb45m22",
+      "text": "For their new film A Talent for Murder",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-31T20:00:29Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz6savv6fi2u",
       "text": "Draculas, Xenomorphs, Godzillas, and more. What's the greatest monster movie of all time?\n\nHere's our ranking of the 25 best, just in time for Halloween: https://bit.ly/4yTTmPh",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-30T06:20:04+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mz2zkwjric2p",
-      "text": "PUBG is getting a tabletop card game called Final Circle, where players loot gear, battle rivals, and fight to be the last survivor.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T05:15:17Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz2x3rbugt2a",
-      "text": "Mouthwashing is getting the Hollywood treatment with a full-length feature film directed by the mind behind Jennifer's Body. https://bit.ly/4ig1zrZ",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T04:31:01.319187939Z",
       "platform": "Bluesky"
     }
   ]
