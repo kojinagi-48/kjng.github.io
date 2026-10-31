@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-31T20:43:19.886141+00:00",
+  "updated": "2026-10-31T22:42:30.519783+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz76tfghjy2d",
+      "text": "ICYMI: Red Rising director Francis Lawrence said that the YA series' movie adaptation is a \"priority\" at Paramount after Netflix shelved its TV show adaptation. https://t.co/AbPyWAWhr9",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-31T21:00:09.345510062Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mz73ktawlq2y",
       "text": "There’s quite literally no better day to play Illfonic’s Halloween: The Game. Read our review of it to find out why it could be your new favorite spooky-season multiplayer game: gameinformer.com/review/hallo...",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-30T07:00:20Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mz356spymb2d",
-      "text": "Harvest Moon: ﻿Echoes of Teradea Reveals Its Roadmap For 2027, Includes Nine DLC Packs & 30th Anniversary Celebration",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T06:20:04+00:00",
       "platform": "Bluesky"
     }
   ]
