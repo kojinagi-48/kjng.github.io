@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-31T08:50:25.087910+00:00",
+  "updated": "2026-10-31T10:43:08.340478+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz5wm2wdki2v",
+      "text": "After a three-year hiatus, Netflix’s French heist series Lupin returns for Part 4 with a soap opera bent, and it’s all the better for it.\n\nOur review: bit.ly/4A6Life",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-10-31T09:00:13Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz5taxgcyz2x",
       "text": "The final trailer for Dune: Part Three reveals just how different this sequel will be from the books, and it all centers around Zendaya's Chani and her children. bit.ly/4iqCLwf",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-29T20:50:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz2563wiz22g",
-      "text": "Assassin's Creed Valhalla launched all the way back in November 2020, but Ubisoft just announced that it's getting its own New Game+ mode. https://bit.ly/3UXqTKq",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-29T20:47:02.311755907Z",
       "platform": "Bluesky"
     }
   ]
