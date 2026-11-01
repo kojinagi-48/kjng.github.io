@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-01T18:50:45.471142+00:00",
+  "updated": "2026-11-01T20:44:08.878255+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzbilsjswt2w",
+      "text": "ICYMI: A hacker sparked an uproar within the PlayStation 5 homebrew scene for privately reporting an exploit to Sony and cashing in on a $50,000 reward, rather than keeping it confidential for the community. https://t.co/TGoIgbggOX",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T19:00:11.54422841Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mzbgwlwpqk2m",
       "text": "If you’re playing Phantom Blade Zero on PS5, you have a few graphics options to choose from. Here’s our breakdown of each, including advice on which is the best for you: gameinformer.com/tips-tricks/...",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-30T19:00:25Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz4fzszzwa2z",
-      "text": "Eiji Aonuma, producer of the Zelda series, has said some of the younger members of his team had never played the original Ocarina of Time, but insisted that was very much a good thing for the development of the remake. https://bit.ly/3W20v2t",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T18:31:01.924728969Z",
       "platform": "Bluesky"
     }
   ]
