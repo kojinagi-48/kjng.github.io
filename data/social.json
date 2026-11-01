@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-01T04:56:38.759974+00:00",
+  "updated": "2026-11-01T07:04:28.842654+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mza6ogitng27",
+      "text": "An EA office building in Madrid was vandalized with the words \"Save Mass Effect\" just days after the company announced it had shuttered series developer BioWare. https://bit.ly/4yXVJRk",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T06:30:02.435756063Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mza4yupbz62h",
+      "text": "The canceled Paranormal Activity video game is getting a new lease on life as Playable Archive, which launched this week for free on Steam. https://t.co/6OnvBvyA54",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T06:00:05.390629389Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz7znkqhym27",
+      "text": "Dead by Daylight developer Behaviour Interactive has responded after confirming Chucky would be removed from stores, explaining that horror icons will \"continue to have an open invitation to join (or rejoin).\" https://t.co/XrIWb2XsfO",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T05:00:04.619832927Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz7xxthwhh2w",
       "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms. https://bit.ly/4ebsOBB",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-30T14:30:17Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3mz3wzxhw6s2u",
-      "text": "NEW: Why did EA shut down BioWare? Twitter thinks the studio failed because it was too woke. BlueSky thinks Saudi Arabia killed the studio for being too gay. \n\nThe real reason? Star Wars www.bloomberg.com/news/newslet...",
-      "author": "Jason Schreier",
-      "handle": "jasonschreier.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mkgbhbhqvappkkorf2bzyrp/bafkreib2xnu5b2a3r3qrsva2loml45jiclpbsn7id4wywsimyo5xhjva7m",
-      "label": "ANALYSIS",
-      "language": "en",
-      "published": "2026-10-30T14:02:40.464Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mz3w2ntldi2c",
-      "text": "Harvest Moon: ﻿Echoes of Teradea Reveals Its Roadmap For 2027, Includes Nine DLC Packs & 30th Anniversary Celebration (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T13:45:08+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz3tlq5aaz2x",
-      "text": "A new report claims that the next Elder Scrolls game will be titled The Elder Scrolls 6: Sentinel, along with new story details. https://bit.ly/4BEG63Q",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T13:01:01.767663298Z",
       "platform": "Bluesky"
     }
   ]
