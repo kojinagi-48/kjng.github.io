@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-01T10:47:10.176055+00:00",
+  "updated": "2026-11-01T12:55:43.688655+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzar4rbcec2x",
+      "text": "ICYMI: Epic Games boss Tim Sweeney doubled down on his severe criticism of Valve, calling Steam’s AI content disclosure a “political act.” https://t.co/4jeC8wXPhR",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T12:00:10.84024667Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzaombvurn2j",
+      "text": "The best decade of the beloved comic strip",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T11:15:10Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzanrcvg2m2q",
+      "text": "World of Warcraft Forever gets its full release on November 4, and while the MMO will stay tethered to the two vanilla continents, Eastern Kingdoms and Kalimdor, it sounds like future updates could add some of the areas we've visited in the expansions.  https://t.co/HM4xIUWgfN",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T11:00:05.44311726Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzah2rp3ka2w",
       "text": "The new Apple TV series Nocturne is threading a needle with familiar tropes and a remixed storyline.\n\nOur review of episodes 1 and 2: https://t.co/UDr03bq4tF",
@@ -846,39 +879,6 @@
       "label": "OFFICIAL",
       "language": "en",
       "published": "2026-10-30T15:02:44.479Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz42ce7shk2f",
-      "text": "Yaga’s third episode envelopes us further with its otherworldly occurrences and shocking reveals, while keeping us on our toes for who’s really behind the mysteries and possible horrors that seem to lie ahead.\n\nOur review: https://bit.ly/4zly4ey",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T15:01:03.469236968Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mz42astjmj2d",
-      "text": "Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T15:00:10+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mz3zor6j3626",
-      "text": "Its broad cast of characters, vivid writing and engaging voice performances make it akin to curling up with an interactive, supernatural Agatha Christie novel. Our review of The Séance of Blake Manor: (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T14:50:04+00:00",
       "platform": "Bluesky"
     }
   ]
