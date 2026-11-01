@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-01T08:54:12.662511+00:00",
+  "updated": "2026-11-01T10:47:10.176055+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzah2rp3ka2w",
+      "text": "The new Apple TV series Nocturne is threading a needle with familiar tropes and a remixed storyline.\n\nOur review of episodes 1 and 2: https://t.co/UDr03bq4tF",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-01T09:00:06.763769632Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mza6ogitng27",
       "text": "An EA office building in Madrid was vandalized with the words \"Save Mass Effect\" just days after the company announced it had shuttered series developer BioWare. https://bit.ly/4yXVJRk",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-30T14:50:04+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mz3yldq6v32i",
-      "text": "Sony has picked up the rights to indie-horror darling Mouthwashing",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T14:30:17Z",
       "platform": "Bluesky"
     }
   ]
