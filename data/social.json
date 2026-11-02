@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-02T01:12:36.647936+00:00",
+  "updated": "2026-11-02T02:57:16.488203+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzca37d4rx2o",
+      "text": "Don't expect this politically scorching penguin sim to arrive to Xbox anytime soon",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-02T02:00:24Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzca2npzuq2w",
+      "text": "A former BioWare technical director has revealed that the cancelled Mass Effect game's story would have accounted for player decisions made in the original Commander Shepard trilogy.\n\nFor more info: https://t.co/8cPiadklZs",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-02T02:00:05.884118215Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzc4pgcom22h",
       "text": "Marvel filmmaker Taika Waititi has called critics \"sad lost souls who couldn't achieve their dreams\" after his latest film, Klara and the Sun, premiered with negative reviews. https://bit.ly/47UP8vK",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-10-31T00:01:01.705836948Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mz4yggux2x2g",
-      "text": "11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-31T00:00:09+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mz4xn36d7g2u",
-      "text": "The Lenovo Legion Go S Z1 Extreme SteamOS handheld gaming PC is on sale ahead of Black Friday. https://bit.ly/4Bv3uQZ",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-10-30T23:46:01.596666691Z",
       "platform": "Bluesky"
     }
   ]
