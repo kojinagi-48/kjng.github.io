@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-03T08:58:46.992433+00:00",
+  "updated": "2026-11-03T10:59:49.637618+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzfjx5auc72c",
+      "text": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-03T09:35:02+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzfhyrugy72q",
+      "text": "After six hours with the beefy Charting the Unknown DLC, it seems to add even more to Crimson Desert’s buffet-style approach while doing little to improve existing systems.\n\nOur review so far: bit.ly/4ySBWm3",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-03T09:00:12Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzfgltytnh2g",
       "text": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements (Repost)",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-01T23:30:02.194214727Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzbvyvfunk2x",
-      "text": "As a senior artist at Rockstar Games from 2001 to 2016, Stephen Bliss defined the iconic pop art and comic book feel that has become the visual hallmark for Grand Theft Auto.\n\nFor more info: https://bit.ly/4yTaVz4",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-01T23:00:09.411571619Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzbso3fbpp2j",
-      "text": "Remakes and remasters are all the rage, but five classics from Nintendo are good enough that no one ever needs to bother trying to improve them.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-01T22:00:25Z",
       "platform": "Bluesky"
     }
   ]
