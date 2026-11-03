@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-03T13:10:01.595023+00:00",
+  "updated": "2026-11-03T14:59:14.168564+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzg2grjrab2d",
+      "text": "Zelda: Ocarina Of Time Switch 2 Cast Features A Returning Voice Actor From The N64 Original",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-03T14:30:06+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzfzusoylq26",
+      "text": "Zelda: Ocarina Of Time Switch 2 \"Free N64 Box Replica\" Announced For Argos Midnight Launch (UK) (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-03T14:20:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzfwjirhls2m",
+      "text": "Round Up: The Reviews Are In For Stellar Blade's Switch 2 Port (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-03T13:20:03+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3mzfvqin6ss2v",
       "text": "New poisonous Terminid types are spawning today in Helldivers 2, exterminate now: play.st/4A6YQXM",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-02T09:46:01.136669983Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzck4pl4rl2a",
-      "text": "By skipping last-gen systems, Stranger Than Heaven is allowing RGG Studio to fully leverage the power of current-gen consoles at long last. https://bit.ly/4syOuNU",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-02T05:00:12.3441748Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzcf3mhzhe2j",
-      "text": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-02T03:30:05+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzcdfwnsj52a",
-      "text": "Opinion: Truth exists on a spectrum in You Can See Everything, and it often feels like a game of narcissistic whack-a-mole. https://bit.ly/3WncE1U",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-02T03:00:05.57185025Z",
       "platform": "Bluesky"
     }
   ]
