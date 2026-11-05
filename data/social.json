@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-05T20:56:55.212994+00:00",
+  "updated": "2026-11-05T22:54:50.765024+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzlukvczit2q",
+      "text": "Leonida lights up in these new images of GTA 6, with the game now just two weeks away from launch. https://bit.ly/4zx1oPk",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-05T22:01:03.192497495Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzlu3ajpb42x",
+      "text": "Will you be playing the new boss rush for Young Link and Adult Link in the Ocarina of Time remake?",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-05T21:52:18.01856438Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:h5w6pcocd77sfvhhzhgmzncu/post/3mzltzqiu3k2l",
+      "text": "Second email I’ve received this week about game launches being delayed last minute because of Steam’s approval queues being hammered by submissions",
+      "author": "Lucy James",
+      "handle": "lucyjames.games",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h5w6pcocd77sfvhhzhgmzncu/bafkreig3cyo46tn4udmke2gjiu75qknvsupjdjhcy267gu5jsb7uwcgjvi",
+      "label": "ANALYSIS",
+      "language": "en",
+      "published": "2026-11-05T21:51:27.740Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzltxb6wyl2z",
+      "text": "Despite some drawbacks, Stellar Blade stands tall as an impressive and enjoyable action game that occupies a nice niche in the Switch 2 library. Our review: (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-05T21:50:02+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzlsva2o7i2w",
+      "text": "Microsoft has updated the Xbox PC app so it’s 60% faster and simpler, it said. https://bit.ly/4sFNs2K",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-05T21:31:02.513435779Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzlr7m2gx22z",
+      "text": "Pokémon cards have officially joined the Strong National Museum of Play's Toy Hall of Fame Class of 2026 alongside Care Bears, Bingo and more. https://bit.ly/4Advkjh",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-05T21:01:03.145637013Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzlr63xwbx2m",
+      "text": "BioWare and the end of Mass Effect are getting a documentary film.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-05T21:00:12Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzlqlyzstg2c",
       "text": "\"I Will Have Been Here For 30 Hours\" - London's Midnight Zelda Launch Was Wild (Repost)",
@@ -802,83 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-04T20:31:01.836366889Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzj6byupro2u",
-      "text": "Once Upon a Time in Hollywood director Quentin Tarantino said that while he \"felt bad\" about not directing Brad Pitt in the sequel, he was thrilled to have David Fincher take on the project.",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-04T20:17:03.133730974Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mzj623aos42y",
-      "text": "\"I didn't expect to be so moved,\" executive editor @kylehilliard.com says in his review of Zelda: Ocarina of Time (2026).\n\nWatch the full review: youtu.be/z5j-vikSijc",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-04T20:12:37.176Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzj5fezwtc2a",
-      "text": "The Donkey Kong series just turned 45 years old!\n\nAre the games still good today? We checked out the 1994 Game Boy game to check in and see how it holds up. https://bit.ly/4znmAqJ",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-04T20:01:02.803654865Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzj5e5vxh32v",
-      "text": "The biggest manufacturer of Nintendo Switch 1 and 2 chips is exiting the ROM business, making it harder for Nintendo to make Switch cartridges.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-04T20:00:21Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzj3wxwmo32k",
-      "text": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-04T19:35:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzj3pq2wme2x",
-      "text": "The Elder Scrolls 6: Sentinel is created by an Xbox-owned studio, but will Microsoft make it an Xbox exclusive? It could be the right move to secure the console's future. https://bit.ly/3V3BuUg",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-04T19:31:02.438105007Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzj3pplbqh2x",
-      "text": "Nvidia just showed off DLSS 5 in Hogwarts Legacy in a new video that shows how its AI lighting and materials model looks in-game.\n\nIt’s a much more subtle effect compared to the images and clips going around after a leaked early version of DLSS 5 was modded into games. https://bit.ly/4BIgtPv",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-04T19:31:01.924656014Z",
       "platform": "Bluesky"
     }
   ]
