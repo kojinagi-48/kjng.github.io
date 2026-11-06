@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-06T05:04:08.309396+00:00",
+  "updated": "2026-11-06T07:24:26.796020+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmq7xhodz2o",
+      "text": "A John Constantine movie is in early development at DC Studios, with Evil Dead Wrath writer-director Francis Galluppi tapped to write the script. https://bit.ly/3Wtjseu",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-06T06:16:01.122441148Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmnpiqxf62y",
+      "text": "As The Elder Scrolls prepares to take us to the Hammerfell region in the next game, I hope the world of Sentinel looks and feels nothing like Skyrim. https://bit.ly/4yYgQml",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-06T05:31:01.350762032Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmmuodjwc2o",
+      "text": "Barry Sloane, the voice and face model for Captain Price in the Modern Warfare games, is hinting that he wants to be in the Call of Duty movie, saying, \"I don't think there's anyone else on the planet who is as qualified for the job as I am.\" https://bit.ly/4812A1b",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-06T05:16:01.227483874Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmlzuapbu2i",
       "text": "The last two years of BioWare's life were filmed and will be shown in a new documentary about the game studio. https://bit.ly/4zyIV4S",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-05T02:05:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzjrj2tkcz2d",
-      "text": "Final Fantasy VII Revelation producer Yoshinori Kitase has hinted that Square Enix is interested in movie adaptations and new games. https://bit.ly/4yWYmTr",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T02:01:01.166564339Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzjprrytr32s",
-      "text": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T01:30:04+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzjo5rsh452g",
-      "text": "Leonardo DiCaprio and Joaquin Phoenix were both offered the role of Joker in The Dark Knight, but ended up turning it down, according to the film's casting director. https://bit.ly/4sDq0Db",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T01:01:01.371314531Z",
       "platform": "Bluesky"
     }
   ]
