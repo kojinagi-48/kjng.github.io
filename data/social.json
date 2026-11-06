@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-06T07:24:26.796020+00:00",
+  "updated": "2026-11-06T09:02:59.393607+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmuefilma25",
+      "text": "GOG is publishing indies that have a \"classic soul\" and has revived more gaming classics including Road Rash and Wing Commander. bit.ly/4sLwMqK",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-06T07:30:04Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmq7xhodz2o",
       "text": "A John Constantine movie is in early development at DC Studios, with Evil Dead Wrath writer-director Francis Galluppi tapped to write the script. https://bit.ly/3Wtjseu",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-05T02:16:01.14292151Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzjrqcpaql2g",
-      "text": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T02:05:02+00:00",
       "platform": "Bluesky"
     }
   ]
