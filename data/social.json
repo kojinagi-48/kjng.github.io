@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-06T13:12:48.531229+00:00",
+  "updated": "2026-11-06T14:56:57.836381+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mznlv4iql22y",
+      "text": "The live-action Stranger Things prequel series has its first teaser trailer and a 2028 release window.\n\nCheck it out here: https://bit.ly/4ehi6JV",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-06T14:31:02.078008366Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mznk7igjqe2z",
+      "text": "Phantom Blade Zero's official soundtrack is out today, and the composer sat down with us to discuss how the action game's kung fu punk style inspired \"bold musical decisions to match the visuals\": https://bit.ly/4AjYtto",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-06T14:01:02.65242123Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzngu6hb2h2h",
       "text": "Nintendo Exec's message to Ocarina of Time newbies: \"This is the perfect place for your first Zelda game.\" https://bit.ly/4z8erps",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-05T05:00:25.294Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzk3jtrazh2n",
-      "text": "Xenoblade Chronicles Studio Monolith Soft Helped Out With The Zelda: Ocarina Of Time Remake",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T05:00:23+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzjztxkt2h22",
-      "text": "When casting these gaming icons, the creators should have stuck with their first choice",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T04:30:16Z",
       "platform": "Bluesky"
     }
   ]
