@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-07T10:50:09.317060+00:00",
+  "updated": "2026-11-07T12:57:12.905164+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzptwb525x22",
+      "text": "The Remarried Empress may not be the romantasy TV show we need right now, but it’s the romantasy TV show we’ve got.\n\nOur review of episodes 1-4: bit.ly/4sHqati",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T12:00:09Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzppywhz722q",
       "text": "Unquestionably the best way to play one of the most seminal games of all time. Our Legend of Zelda: Ocarina of Time review: (Repost)",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-05T23:31:01.331174351Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzlyqyyqra2w",
-      "text": "There is no third time. Everything ends here.\n\nCheck out these new images from the latest trailer for Godzilla Minus Zero, now in theaters!",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T23:16:03.342142325Z",
       "platform": "Bluesky"
     }
   ]
