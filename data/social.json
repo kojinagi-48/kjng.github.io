@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-07T18:51:43.203036+00:00",
+  "updated": "2026-11-07T20:45:29.652380+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzqoqperwb2f",
+      "text": "Two eras intertwine in The Legend of Zelda: Ocarina of Time's remake: Nintendo skillfully melds the world and dungeon design of classic Zeldas with the movement and presentation of its more recent games.\n\nOur review: https://t.co/S9qESe3V53",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T20:00:14.536784633Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzqbdrlfpx2y",
       "text": "A saccharine indie dipped in New Hollywood grime, Club Kid is one of the year’s most poignant dramas.\n\nOur review: bit.ly/3VcNnXY",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T02:30:12Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmbxyqski2z",
-      "text": "From the original real-time strategy game to World of Warcraft and its many expansions and now WoW Forever, here is an IGN Playlist of every game in the Warcraft franchise. https://bit.ly/4zA0QIo",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T02:01:01.641687737Z",
       "platform": "Bluesky"
     }
   ]
