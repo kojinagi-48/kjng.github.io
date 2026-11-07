@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-07T20:45:29.652380+00:00",
+  "updated": "2026-11-07T22:44:02.953114+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzqvh6aagf2o",
+      "text": "You may think you know how long The Legend of Zelda: Ocarina of Time is, but things have changed in the remake. https://t.co/6Wbh9cKrC0",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T22:00:10.767250864Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzquv4bmrr2e",
+      "text": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake? (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T21:50:02+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzqoqperwb2f",
       "text": "Two eras intertwine in The Legend of Zelda: Ocarina of Time's remake: Nintendo skillfully melds the world and dungeon design of classic Zeldas with the movement and presentation of its more recent games.\n\nOur review: https://t.co/S9qESe3V53",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T03:05:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmfdbnz5f2v",
-      "text": "From bosses to dungeons and more, here's our extensive graphical comparison between the remake and the N64 original for The Legend of Zelda: Ocarina of Time! https://bit.ly/4sF99Qp",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T03:01:01.311266561Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzmdm6qltr22",
-      "text": "Hyper Light Drifter creator opens up on 2026's brutal indie game industry",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T02:30:12Z",
       "platform": "Bluesky"
     }
   ]
