@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-07T12:57:12.905164+00:00",
+  "updated": "2026-11-07T14:48:49.123034+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzq2mxf5oz25",
+      "text": "Turning out much better than its early trailers indicated, The Cat in the Hat takes what is arguably Dr. Seuss’ most iconic character and provides a much more satisfying film adaptation than the first attempt 23 years ago. \n\nOur review: bit.ly/4is8Ncz",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T14:00:13Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzq2ms5fzh2v",
+      "text": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T14:00:06+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzptwb525x22",
       "text": "The Remarried Empress may not be the romantasy TV show we need right now, but it’s the romantasy TV show we’ve got.\n\nOur review of episodes 1-4: bit.ly/4sHqati",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T01:20:01+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzm4yiijep2x",
-      "text": "Empty Bottles are very valuable in Ocarina of Time, and now there are 5 bottles to collect in the remake instead of 4:",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T00:31:49.387686819Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzlzlrf76q2z",
-      "text": "Curry Barker, famous for his hit horror flick Obsession, is keen on bringing his terrifying tastes to the world of Indiana Jones if the opportunity ever arises. https://bit.ly/4sN7wQT",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T23:31:01.331174351Z",
       "platform": "Bluesky"
     }
   ]
