@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-07T07:05:24.833592+00:00",
+  "updated": "2026-11-07T08:57:18.273191+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzphmppl2v2v",
+      "text": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T08:20:02+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzpgj2zk4y2r",
+      "text": "Martin McDonagh's latest film Wild Horse Nine tackles heady subjects and yet is still funny - and a great hangout movie.\n\nOur review: bit.ly/4z8VvqC",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T08:00:08Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzpetdy6li2g",
+      "text": "Wendy’s has released a 15-hour RPG based on the fast-food chain’s branding, with real food rewards for beating boss fights. bit.ly/4j1o0RY",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T07:30:06Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzpd5qdfim22",
       "text": "The last two years of BioWare's life were filmed and will be shown in a new documentary about the game studio. bit.ly/4iuWv3i",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-05T21:52:18.01856438Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:h5w6pcocd77sfvhhzhgmzncu/post/3mzltzqiu3k2l",
-      "text": "Second email I’ve received this week about game launches being delayed last minute because of Steam’s approval queues being hammered by submissions",
-      "author": "Lucy James",
-      "handle": "lucyjames.games",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h5w6pcocd77sfvhhzhgmzncu/bafkreig3cyo46tn4udmke2gjiu75qknvsupjdjhcy267gu5jsb7uwcgjvi",
-      "label": "ANALYSIS",
-      "language": "en",
-      "published": "2026-11-05T21:51:27.740Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzltxb6wyl2z",
-      "text": "Despite some drawbacks, Stellar Blade stands tall as an impressive and enjoyable action game that occupies a nice niche in the Switch 2 library. Our review: (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T21:50:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzlsva2o7i2w",
-      "text": "Microsoft has updated the Xbox PC app so it’s 60% faster and simpler, it said. https://bit.ly/4sFNs2K",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-05T21:31:02.513435779Z",
       "platform": "Bluesky"
     }
   ]
