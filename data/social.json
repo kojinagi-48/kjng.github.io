@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-08T07:07:39.919853+00:00",
+  "updated": "2026-11-08T08:57:51.025699+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzrwxtotku2o",
+      "text": "ICYMI: Rockstar Games has released a few dozen new screenshots from GTA 6 to celebrate the game being two weeks away from launch. bit.ly/4AaThI6",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-08T08:00:03Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzrqbd2ssb2t",
       "text": "With GTA 6 mere weeks away from launch, Xbox has revealed the Xbox Series X-Bite, a five-foot-long, alligator-shaped, fully-functional Xbox Series X that you can win in a sweepstakes. And no, it's not real taxidermy. 🐊 https://t.co/k1F0Fxjkfw",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T05:31:01.350762032Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmmuodjwc2o",
-      "text": "Barry Sloane, the voice and face model for Captain Price in the Modern Warfare games, is hinting that he wants to be in the Call of Duty movie, saying, \"I don't think there's anyone else on the planet who is as qualified for the job as I am.\" https://bit.ly/4812A1b",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T05:16:01.227483874Z",
       "platform": "Bluesky"
     }
   ]
