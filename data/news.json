@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-08T12:58:10.142727Z",
+  "updated": "2026-11-08T14:47:20.210523Z",
   "article_count": 240,
   "articles": [
+    {
+      "title": "The TMNT Answer to Jurassic Park Might Be the Most ’90s Cartoon That Was Ever Made",
+      "url": "https://comicbook.com/tv-shows/feature/the-tmnt-answer-to-jurassic-park-might-be-the-most-90s-cartoon-that-was-ever-made/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "By the 1990’s, Saturday morning cartoons had evolved a great deal from the shows of prior generations. They were darker, more action-packed and often intended for both young kids and older viewers to unironically enjoy. But one movement in kids’ anim",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/extreme-dinosaurs-1.jpg?w=1056",
+      "published": "2026-11-08T14:27:00Z"
+    },
+    {
+      "title": "Nintendo Makes One of the Best Switch 2 RPGs $60 Off",
+      "url": "https://comicbook.com/gaming/news/nintendo-switch-2-games-rpgs-sale-2026/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "The Nintendo eShop has made one of the best Nintendo Switch 2 RPGs $60 off. To this end, rather than being priced at $70 on the Nintendo Switch 2 eShop as it normally is, the role-playing game is available for $10. $10.49, to be more precise. That sa",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/01/n-i-n-t-e-n-d-o-s-w-i-t-c-h-2_3f9e20.png?w=1056",
+      "published": "2026-11-08T14:04:44Z"
+    },
+    {
+      "title": "36 Years Ago, DC Created a Wizard Who Predated Harry Potter, and He’s Still Waiting for His HBO Series",
+      "url": "https://comicbook.com/comics/feature/36-years-ago-dc-created-a-wizard-who-predated-harry-potter-and-hes-still-waiting-for-his-hbo-series/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Image Courtesy of DC Comics Harry Potter is coming to HBO, the bespectacled British wizard being introduced to a whole new generation fans. Harry Potter-mania swept the world through the late ’90s with the books to the release of the final movie in t",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/Books-of-Magic-Vol.-2-8.jpg?w=1056",
+      "published": "2026-11-08T13:27:00Z"
+    },
+    {
+      "title": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Aurbis converts Bethesda's fantasy adventure into a shared multiplayer world, with all the systems that entails.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zcxc3uHvAH7FJr4rQrSwXE-1920-80.jpg",
+      "published": "2026-11-08T13:19:55Z"
+    },
     {
       "title": "5 Cult Animated Shows From 2004 That I Still Think About Decades Later",
       "url": "https://comicbook.com/tv-shows/list/5-cult-animated-shows-from-2004-that-i-still-think-about-decades-later/",
@@ -736,21 +772,21 @@
       "published": "2026-11-07T15:06:55Z"
     },
     {
-      "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
-      "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
-      "source": "PC Gamer",
-      "category": "Games",
-      "summary": "I recommend openSUSE Tumbleweed, personally.",
-      "image": "https://cdn.mos.cms.futurecdn.net/eyYchBd274FJCGzgDdyxyT-1920-80.jpg",
-      "published": "2026-11-07T15:00:00Z"
-    },
-    {
       "title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
       "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
       "source": "PC Gamer",
       "category": "Games",
       "summary": "Hulick also revealed that he was asked by BioWare to score an internal demo for Mass Effect: Universe—but work was cut short by the studio's closure.",
       "image": "https://cdn.mos.cms.futurecdn.net/VuYAMFPN58skETzPcrxBkY-1920-80.jpg",
+      "published": "2026-11-07T15:00:00Z"
+    },
+    {
+      "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+      "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "I recommend openSUSE Tumbleweed, personally.",
+      "image": "https://cdn.mos.cms.futurecdn.net/eyYchBd274FJCGzgDdyxyT-1920-80.jpg",
       "published": "2026-11-07T15:00:00Z"
     },
     {
@@ -2139,43 +2175,6 @@
       "summary": "Image courtesy of Cartoon Network The 2000s were full of amazing cartoons that 90s kids grew up loving (and often still love today). One of the best parts of watching cartoons during that era was the intro. Today’s openings are short and sweet, but t",
       "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/08/Beast-Boy-Starfire-Raven-Cyborg-and-Robin-in-the-title-opening-of-2003s-Teen-Titans.jpg?w=1056",
       "published": "2026-11-06T11:11:00Z"
-    },
-    {
-      "title": "PS5 Exclusive Game Comes to Nintendo Switch 2 After Two Years and Millions of Copies Sold",
-      "url": "https://comicbook.com/gaming/news/nintendo-switch-2-ps5-playstation-5-exclusive-game-millions/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "A PS5 exclusive game has come to Nintendo Switch 2 after selling millions of copies, ending its PS5 console exclusivity after more than two years of being exclusive to the Sony console. The game in question was notably only on PS5 at launch in April ",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/09/n-i-n-t-e-n-d-o-s-w-i-t-c-h-2.png?w=1056",
-      "published": "2026-11-06T11:11:00Z"
-    },
-    {
-      "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
-      "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
-      "source": "IGN",
-      "category": "Games",
-      "summary": "Nier: Automata got a patch yesterday to add support for more languages to the game (Korean, Simplified Chinese, and Traditional Chinese), but it accidentally bloated the game file size to 366GB on PC. That’s 1.5 copies of GTA 6!",
-      "image": "https://assets-prd.ignimgs.com/2026/11/06/nier-1793963174330.jpg",
-      "published": "2026-11-06T11:07:49Z"
-    },
-    {
-      "title": "Rainy Day Serenade Anime's Teaser Reveals Cast, Staff, April 2027 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-06/rainy-day-serenade-anime-teaser-reveals-cast-staff-april-2027-debut/.243586",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "Yume Miyamoto, Takeo Ōtsuka star in anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/encyc/A38467-2252614104.1770952890.jpg",
-      "published": "2026-11-06T11:00:00Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "Dune and Star Wars Have More in Common Than You Think, but Their Biggest Differences Are What Matter",
-      "url": "https://comicbook.com/movies/feature/dune-and-star-wars-have-more-in-common-than-you-think-but-their-biggest-differences-are-what-matter/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "If you put Paul Atreides and Luke Skywalker next to each other, you’d probably notice a few similarities—and more than a few differences. But both are young men from desert planets who discover they’re connected to something much bigger than themselv",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/luke-skywalker-paul-atreides.jpg?w=1056",
-      "published": "2026-11-06T10:38:00Z"
     }
   ]
 }
