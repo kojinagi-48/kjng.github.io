@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-08T20:45:00.734275+00:00",
+  "updated": "2026-11-08T22:44:40.194592+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mztfw3x73t2s",
+      "text": "From quicker movement to sending Link to space, The Legend of Zelda: Ocarina of Time speedrunners have already found a few ways to break the remake. https://bit.ly/3Umy7rn",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-08T22:00:11.039015908Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzt3ubeurq2z",
       "text": "Epic Games has revealed the drop rate for Fortnite's Pirate Token after backlash surrounding the infamous in-game pickup saw fans try to report the studio to the FTC. https://bit.ly/3WhM3U9",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T14:31:02.078008366Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mznk7igjqe2z",
-      "text": "Phantom Blade Zero's official soundtrack is out today, and the composer sat down with us to discuss how the action game's kung fu punk style inspired \"bold musical decisions to match the visuals\": https://bit.ly/4AjYtto",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T14:01:02.65242123Z",
       "platform": "Bluesky"
     }
   ]
