@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-08T14:47:25.387239+00:00",
+  "updated": "2026-11-08T16:45:45.504917+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzsrsio4d62x",
+      "text": "Master Quest might come to the Nintendo Switch 2 remake as DLC",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-08T16:00:15Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzsmrjiaye2c",
       "text": "Audrey Leprince of The Game Bakers reflects on the climb to bring the GOTY contender to life",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T11:35:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mznb7okzwr2v",
-      "text": "Wild Blue Skies is what happens when a spiritual successor takes too much inspiration from its predecessor. Our review: (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T11:20:03+00:00",
       "platform": "Bluesky"
     }
   ]
