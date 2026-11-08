@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-07T22:44:02.953114+00:00",
+  "updated": "2026-11-08T01:12:09.071707+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzr45oyek52z",
+      "text": "Sony has announced an indefinite delay for PlayStation's Pulse Elevate wireless speakers just days before their global launch. https://bit.ly/484emIc",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-08T00:00:08.977513132Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzqzn4uvjt23",
+      "text": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2 (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T23:15:04+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzqysgaaly22",
+      "text": "A team of modders has successfully ported Mass Effect 3's multiplayer to the Legendary Edition, with all the graphics and engine improvements that came with that re-release.https://bit.ly/4eQ84j6",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-07T23:00:09.482184728Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzqvh6aagf2o",
       "text": "You may think you know how long The Legend of Zelda: Ocarina of Time is, but things have changed in the remake. https://t.co/6Wbh9cKrC0",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T04:50:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzmidx3aix26",
-      "text": "Nintendo Reiterates Plans For Zelda's 40th Anniversary",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T03:55:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmgyw7lip2h",
-      "text": "Wendy’s has gone full Wendy’s, releasing a 15-hour RPG based on the fast-food chain’s branding. https://bit.ly/480fc8Y",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T03:31:01.244375676Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzmfkjdjnh26",
-      "text": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T03:05:02+00:00",
       "platform": "Bluesky"
     }
   ]
