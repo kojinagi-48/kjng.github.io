@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-08T08:57:51.025699+00:00",
+  "updated": "2026-11-08T10:50:33.264044+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzs5om4nka2r",
+      "text": "Nintendo has ruled out further Switch 2 price rises while reporting falling console sales and reduced profit. bit.ly/4A9Ig9K",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-08T10:00:09Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzs5okvsuo23",
+      "text": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-08T10:00:07+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzrwxtotku2o",
       "text": "ICYMI: Rockstar Games has released a few dozen new screenshots from GTA 6 to celebrate the game being two weeks away from launch. bit.ly/4AaThI6",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T07:30:04Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmq7xhodz2o",
-      "text": "A John Constantine movie is in early development at DC Studios, with Evil Dead Wrath writer-director Francis Galluppi tapped to write the script. https://bit.ly/3Wtjseu",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T06:16:01.122441148Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzmnpiqxf62y",
-      "text": "As The Elder Scrolls prepares to take us to the Hammerfell region in the next game, I hope the world of Sentinel looks and feels nothing like Skyrim. https://bit.ly/4yYgQml",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreidunmnxkwnwyc7hjiaznypnop77khmepyrj322llb5ivloykxeyem",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T05:31:01.350762032Z",
       "platform": "Bluesky"
     }
   ]
