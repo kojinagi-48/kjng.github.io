@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-09T07:33:56.148718+00:00",
+  "updated": "2026-11-09T09:19:28.868103+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzuksb5xdd2p",
+      "text": "The Elder Scrolls 6: Sentinel is created by an Xbox-owned studio, but will Microsoft make it an Xbox exclusive? It could be the right move to secure the console's future. https://t.co/rR2wrbthJz",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-09T09:00:10.731476133Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzuhgw3ayo2n",
+      "text": "After so many VisionQuest episodes where James Spader's Ultron has hogged the spotlight, it's refreshing to be reminded that Paul Bettany can more than hold his own when given the opportunity.\n\nOur episode 7 review: https://t.co/iCubexlCVj",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-09T08:00:08.784618041Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzuaqbxiql2w",
       "text": "ICYMI: Yakuza series creator Toshiro Nagoshi’s studio has officially shut down before it had the chance to release a game. https://t.co/E6MQKBrVPK",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T16:31:02.539124073Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mznqyrak6f2x",
-      "text": "If you have a Switch 2 Pro Controller, you can make The Legend of Zelda: Ocarina of Time play even better using the controller's extra buttons gameinformer.com/tips/2026/11...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T16:02:33.199Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mznqw6b3w72h",
-      "text": "The latest episode of Yaga pulls out all the stops to create the most incredible entry in the series so far.\n\nOur review of Yaga Episode 4: https://bit.ly/4AfXdHw",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T16:01:06.190512155Z",
       "platform": "Bluesky"
     }
   ]
