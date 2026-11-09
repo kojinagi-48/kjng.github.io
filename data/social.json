@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-09T02:55:45.324183+00:00",
+  "updated": "2026-11-09T05:12:40.875044+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mztzznm4h22c",
+      "text": "Zach Cregger was \"frustrated\" that much of the conversation around his Resident Evil film \"didn't have anything to do with the movie.\" https://t.co/nVdhoXNYhD",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-09T04:00:05.049555545Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzttd5jakl2x",
       "text": "Godzilla: Destroy All Monsters Melee Remastered is a delightful throwback brawler from a bygone era of lazy weekends past.\n\nOur review: https://t.co/X1hhboaLJE",
@@ -868,17 +879,6 @@
       "label": "OFFICIAL",
       "language": "en",
       "published": "2026-11-06T16:00:32.503023232Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mznqure4i32l",
-      "text": "'Godzilla Minus Zero' just got its last trailer, which shows off the film’s monster villain.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T16:00:18Z",
       "platform": "Bluesky"
     }
   ]
