@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-09T11:04:10.627528+00:00",
+  "updated": "2026-11-09T13:21:12.975106+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzuy7o3kqb26",
+      "text": "Fast combat, fluid traversal and Resonators who fight like themselves: how Wuthering Waves keeps raising the bar for anime action RPGs. #AD",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-09T13:00:19Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzuy7edtyw25",
+      "text": "Review: Queen's Domain (Switch 2) - An Incredible Tribute To FromSoft, And One Of 2026's Best Surprises",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-09T13:00:06+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzuo5l3ee42p",
       "text": "Fifteen years after its initial release, one of the internet's most infamous cult horror movies, Megan Is Missing, has unexpectedly gained a sequel, and fittingly, it's available for free on Instagram. https://t.co/JIKGIpa5mI",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T17:00:20Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzntnqx5ux25",
-      "text": "Zero Parades is another complex, intelligent and gorgeously presented RPG, but it brings nothing new to the groundbreaking experience offered by its predecessor. Our review: (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T16:50:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mznteusaam23",
-      "text": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T16:45:04+00:00",
       "platform": "Bluesky"
     }
   ]
