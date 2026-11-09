@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-09T09:19:28.868103+00:00",
+  "updated": "2026-11-09T11:04:10.627528+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzuo5l3ee42p",
+      "text": "Fifteen years after its initial release, one of the internet's most infamous cult horror movies, Megan Is Missing, has unexpectedly gained a sequel, and fittingly, it's available for free on Instagram. https://t.co/JIKGIpa5mI",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-09T10:00:11.455118185Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzuksb5xdd2p",
       "text": "The Elder Scrolls 6: Sentinel is created by an Xbox-owned studio, but will Microsoft make it an Xbox exclusive? It could be the right move to secure the console's future. https://t.co/rR2wrbthJz",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-06T16:45:04+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mznslpfd252y",
-      "text": "With the remake out now, here's a look back at our 1998 review of the original The Legend of Zelda: Ocarina of Time, which we called \"easily the best in the series\" at the time.\n\nOur legacy review: https://bit.ly/4is9DGm",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-06T16:31:02.539124073Z",
       "platform": "Bluesky"
     }
   ]
