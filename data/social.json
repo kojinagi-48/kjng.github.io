@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-10T02:57:05.621758+00:00",
+  "updated": "2026-11-10T04:59:26.681136+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzwlf2slfc2z",
+      "text": "\"I think we have enough power in the machine,\" said former PlayStation boss Shawn Layden, who encouraged Sony to consider a cheaper course of action rather than just \"more ray tracing and more teraflops\" in the PS6. https://bit.ly/3VaQqA1",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-10T04:16:01.078422042Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzwijydivg2b",
+      "text": "Mouse Work Is Finally On Its Way To The Switch 2",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-10T03:25:03+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzwemszlkw25",
       "text": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-07T08:20:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzpgj2zk4y2r",
-      "text": "Martin McDonagh's latest film Wild Horse Nine tackles heady subjects and yet is still funny - and a great hangout movie.\n\nOur review: bit.ly/4z8VvqC",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-07T08:00:08Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzpetdy6li2g",
-      "text": "Wendy’s has released a 15-hour RPG based on the fast-food chain’s branding, with real food rewards for beating boss fights. bit.ly/4j1o0RY",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-07T07:30:06Z",
       "platform": "Bluesky"
     }
   ]
