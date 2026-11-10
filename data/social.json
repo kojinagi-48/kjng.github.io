@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-10T07:17:24.585136+00:00",
+  "updated": "2026-11-10T08:59:08.068979+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzwxvrhwn42b",
+      "text": "LEGO has approved a LEGO Ideas submission based on the Christopher Nolan movie Interstellar. bit.ly/4k8I4mz",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-10T08:00:06Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzww7zpz5a2b",
+      "text": "The lead animator for Mass Effect 2 has shared a previously unreleased trailer for the game, only ever seen by the developers at BioWare. bit.ly/4fgIELB",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-10T07:30:03Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzws3ncra726",
       "text": "French film production and distribution company Pathé is working with hypnotist Victor Kraemer to mind wipe 30 movie buffs to see if they can relive that first viewing. https://bit.ly/3XeTwDz\n\nWhich movie would you want to see for the first time again?",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-07T15:00:21Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzq2mxf5oz25",
-      "text": "Turning out much better than its early trailers indicated, The Cat in the Hat takes what is arguably Dr. Seuss’ most iconic character and provides a much more satisfying film adaptation than the first attempt 23 years ago. \n\nOur review: bit.ly/4is8Ncz",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-07T14:00:13Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzq2ms5fzh2v",
-      "text": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-07T14:00:06+00:00",
       "platform": "Bluesky"
     }
   ]
