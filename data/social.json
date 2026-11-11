@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-11T01:12:33.052800+00:00",
+  "updated": "2026-11-11T02:57:38.039910+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzyx2dkueo2d",
+      "text": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T02:50:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzytp26ic62a",
+      "text": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T01:50:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzyt53ko552a",
+      "text": "Nintendo Ending Google And Apple Sign-Ins On Nintendo Accounts In 2027",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T01:40:01+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzyqxcplpb2a",
       "text": "Shaquille O'Neal is starring in a game show where players have to hide him in plain sight. https://bit.ly/3Wpgmbx",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-09T21:30:10.873Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3mzvu2q2rrs2m",
-      "text": "Take-Two's NBA2K27 missed sales expectations due to... Take-Two's Grand Theft Auto VI.\n\nGTA VI will be so huge that it's had a negative impact on sales of AAA games across the industry this year, including the other ones from the company behind it www.bloomberg.com/news/article...",
-      "author": "Jason Schreier",
-      "handle": "jasonschreier.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mkgbhbhqvappkkorf2bzyrp/bafkreib2xnu5b2a3r3qrsva2loml45jiclpbsn7id4wywsimyo5xhjva7m",
-      "label": "ANALYSIS",
-      "language": "en",
-      "published": "2026-11-09T21:18:38.220Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzvt3arnge2p",
-      "text": "Nintendo has teased a new LEGO Yoshi set in a post on the Nintendo Today! app. https://bit.ly/3WC0O48",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-09T21:01:01.992488014Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzvshovcx327",
-      "text": "Review: Queen's Domain (Switch 2) - An Incredible Tribute To FromSoft, And One Of 2026's Best Surprises (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-09T20:50:03+00:00",
       "platform": "Bluesky"
     }
   ]
