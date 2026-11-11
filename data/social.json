@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-11T07:23:09.992549+00:00",
+  "updated": "2026-11-11T09:02:24.792649+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzzk2cbapz2p",
+      "text": "In Season 3’s first four episodes, The Lord of the Rings: The Rings of Power smartly gets back to basics.\n\nOur review: bit.ly/4iGpkZi",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T08:30:05Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzzii56q5d2b",
+      "text": "The Lord of the Rings: The Rings of Power Season 3, Episodes 1-4 prove a welcome return to Middle-earth, allowing the series to get back on track after two seasons of wandering.\n\nOur review: bit.ly/4iJwjC9",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T08:02:02Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzzezeoezk2l",
       "text": "Here's why the DCU's lack of their own Batman movie ultimately doomed James Gunn and Peter Safran's DC Studios stint: bit.ly/3WFieNi",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-10T00:17:02.920332762Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzw5xwbd672z",
-      "text": "Now that preloads are live for Grand Theft Auto VI, fans have found PlayStation files that include \"launchMultiplayerActivity,\" seemingly confirming that GTA Online will eventually make its way to GTA 6.\n\nTo find out what else they've found so far: https://bit.ly/487XrEI",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T00:16:01.467432765Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzw4g4aluk2c",
-      "text": "Take-Two is \"enhancing\" its technical defenses and legal activities to combat the threat of AI-assisted reverse-engineering and decompilation of games ahead of the crucial launch of GTA 6. https://bit.ly/3Wv9wkQ",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-09T23:48:10.010789539Z",
       "platform": "Bluesky"
     }
   ]
