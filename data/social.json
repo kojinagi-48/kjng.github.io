@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-11T21:51:41.221157+00:00",
+  "updated": "2026-11-11T22:57:58.355430+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n22yymkven2b",
+      "text": "The first major award show of the year is an early indicator for the GOTY race, but GTA 6's imminent release casts a big shadow",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T22:30:14Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3n22wvx2wic2k",
+      "text": "Skydance Games told the development team behind Marvel 1943: Rise of Hydra on Slack this afternoon that the game is not canceled, despite a widely circulated rumor on Twitter today claiming that it was.",
+      "author": "Jason Schreier",
+      "handle": "jasonschreier.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mkgbhbhqvappkkorf2bzyrp/bafkreib2xnu5b2a3r3qrsva2loml45jiclpbsn7id4wywsimyo5xhjva7m",
+      "label": "ANALYSIS",
+      "language": "en",
+      "published": "2026-11-11T21:52:57.710Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n22vopwjfn24",
       "text": "Partying, sex (and sexual repression), and religious mania take center stage in Netflix’s eight-episode series The Body.\n\nOur review: https://bit.ly/4iP3kLK",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-10T15:15:26.288Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mzxphhtizt2k",
-      "text": "Rockstar Games has revealed that Grand Theft Auto VI will target 30 FPS gameplay on PlayStation 5 and Xbox Series X/S. However, the studio says the game plays best on PS5, with exclusive visual features on PS5 Pro as well. \n\nMore here: gameinformer.com/2026/11/10/g...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T15:01:36.560Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3mzxpfllnds2a",
-      "text": "Peer into the Prism Collection on February 4 🧡💚🩶\n\nPre-orders are live today for the transparent DualSense controllers: play.st/4kJseio",
-      "author": "PlayStation",
-      "handle": "playstation.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nfshkzomgboapasu6amkhui/bafkreic6hd57x7uoxrzsjku76stwatskovjznvevuq4n4rdzmkd7se25n4",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-11-10T15:00:33.387Z",
       "platform": "Bluesky"
     }
   ]
