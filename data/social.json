@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-11T13:17:15.200669+00:00",
+  "updated": "2026-11-11T14:59:25.361686+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2267q3zdc2u",
+      "text": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake. https://bit.ly/4zcPEjO",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T14:31:02.390167713Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n224kd6kne2o",
+      "text": "Enjoy ten minutes of gameplay from Trollheim: Gnomes, the upcoming PvE survival crafting game for up to eight players in co-op where you play as Sprýg Gnomes from Nordic folklore, living in the Dark Forest. https://bit.ly/4zGVhYT",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T14:01:10.45837249Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzzzzmre3g2p",
       "text": "Nintendo has already shifted 5.2 million copies of The Legend of Zelda: Ocarina of Time remake, now the fastest-selling Switch 2 game over its first four days of availability. https://bit.ly/4exXCwG",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-10T08:00:06Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzww7zpz5a2b",
-      "text": "The lead animator for Mass Effect 2 has shared a previously unreleased trailer for the game, only ever seen by the developers at BioWare. bit.ly/4fgIELB",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T07:30:03Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzws3ncra726",
-      "text": "French film production and distribution company Pathé is working with hypnotist Victor Kraemer to mind wipe 30 movie buffs to see if they can relive that first viewing. https://bit.ly/3XeTwDz\n\nWhich movie would you want to see for the first time again?",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T06:16:01.12892347Z",
       "platform": "Bluesky"
     }
   ]
