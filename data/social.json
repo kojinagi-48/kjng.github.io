@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-11T02:57:38.039910+00:00",
+  "updated": "2026-11-11T05:08:19.897736+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzz6ehldlz2l",
+      "text": "The 2027 New York Game Awards are on the horizon, and IGN will once again be the official destination to stream the broadcast. https://bit.ly/4zhXqJx",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T05:01:01.485090699Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzz2z5ty6f2t",
+      "text": "November’s lineup of games on PlayStation Plus has been revealed, with Death Stranding 2 leading the pack. https://bit.ly/4C0eGFG",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-11T04:01:00.963259563Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzyx2dkueo2d",
       "text": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier (Repost)",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-09T21:35:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzvuqvdyv52d",
-      "text": "Will AI-made PC ports impact GTA 6's launch? The experts say no, but vibe-coding is here to reshape the games industry as we know it. https://bit.ly/48dMPnJ",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-09T21:31:01.95122951Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mzvupen2bd2v",
-      "text": "What have you been playing or what do you plan to play before the month comes to a close? Let us know in the comments below.",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-09T21:30:10.873Z",
       "platform": "Bluesky"
     }
   ]
