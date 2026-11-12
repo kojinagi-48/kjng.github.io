@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-12T09:08:52.955842+00:00",
+  "updated": "2026-11-12T11:12:39.389019+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n24cvmuru62o",
+      "text": "PvE is coming to Marathon and Bungie is hoping new players will give it a shot with a free-to-play period at the start of the next Season. It’s called Symbiosis and is landing on December 8. bit.ly/4zdtLkA",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T11:00:11Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n24cvln2jk2r",
+      "text": "Danganronpa Creator Says Physical Game Production Is Reliant On Day-One Patches",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T11:00:08+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2446ym6f42y",
       "text": "The Legend of Zelda: Ocarina of Time remake gives Link's first 3D adventure a new coat of paint, but some of its details have players second-guessing the reality they thought they once knew. bit.ly/48SgFOI",
@@ -640,17 +662,6 @@
       "platform": "Bluesky"
     },
     {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzza23sfr32p",
-      "text": "PvE is coming to Marathon and Bungie is hoping new players will give it a shot with a free-to-play period at the start of the next Season. It’s called Symbiosis and is landing on December 8. https://bit.ly/3VicRDp",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T05:31:01.077447338Z",
-      "platform": "Bluesky"
-    },
-    {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzz7pib77z2d",
       "text": "Round Up: The Reviews Are In For Pikmin 4 - Switch 2 Edition + Dandori Academy",
       "author": "Nintendo Life",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-10T20:31:01.555207312Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzybtat2y42b",
-      "text": "GTA 6 is coming to the Xbox One, but only through Xbox Cloud Gaming.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T20:30:18Z",
       "platform": "Bluesky"
     }
   ]
