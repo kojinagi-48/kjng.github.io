@@ -1,7 +1,198 @@
 {
-  "updated": "2026-11-12T17:10:34.346792Z",
+  "updated": "2026-11-12T19:02:22.741273Z",
   "article_count": 240,
   "articles": [
+    {
+      "title": "Xbox Has Spent 25 Years Tracking Your Gaming Habits; Now You Can See The Damage",
+      "url": "https://www.gamespot.com/articles/xbox-has-spent-25-years-tracking-your-gaming-habits-now-you-can-see-the-damage/",
+      "source": "GameSpot",
+      "category": "Games",
+      "summary": "It's the 25th anniversary of Xbox, and to celebrate, you can see how much time you've spent--or wasted, according to my parents--playing games on Xbox hardware over the years. Not to be confused with the end-of-year wrap-up that Xbox usually offers, ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Xbox-Playback.jpg?w=300",
+      "published": "2026-11-12T18:34:06Z"
+    },
+    {
+      "title": "7 Game Boy Games Releasing in New Collection This December",
+      "url": "https://comicbook.com/gaming/news/nintendo-game-boy-games-medabots/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Seven different Nintendo Game Boy games — including Game Boy, Game Boy Color, and Game Boy Advance games — are releasing on PC this December following a release in 2020 via the Nintendo Switch. Unfortunately, for those in the United States, Europe, a",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/g-a-m-e-b-o-y.png?w=1056",
+      "published": "2026-11-12T18:32:21Z"
+    },
+    {
+      "title": "Final Fantasy 14 Players Are Mourning The Loss Of The Game’s Legendary Bassist",
+      "url": "https://www.gamespot.com/articles/final-fantasy-14-players-are-mourning-the-loss-of-the-games-legendary-bassist/",
+      "source": "GameSpot",
+      "category": "Games",
+      "summary": "The Final Fantasy 14 community is in mourning following news that Eikichi Iwai, the bassist for the game's house band, The Primals, has died at the age of 57, and is taking to the MMORPG's main hub cities to honor his legacy. An \"Important Announceme",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/FF14-Eikichi-Iwai-Memorials.jpg?w=300",
+      "published": "2026-11-12T18:32:19Z"
+    },
+    {
+      "title": "Professor Layton and The New World of Steam Game Reveals English Dub, Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "summary": "Christopher Robin Miller, Lani Minella return as Professor Layton, Luke, respectively",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g05/cms/news.10/243767/professor-layton-and-the-new-world-of-steam.jpg",
+      "published": "2026-11-12T18:30:41Z",
+      "image_source": "Anime News Network"
+    },
+    {
+      "title": "Crimson Desert’s Charting the Unknown Has an Absurd Ocean, And It’s Practically a Game of Its Own",
+      "url": "https://comicbook.com/gaming/feature/crimson-deserts-charting-the-unknown-has-an-absurd-ocean-and-its-practically-a-game-of-its-own/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Image Courtesy of ComicBook Crimson Desert: Charting the Unknown’s new ocean territory is larger than the entire base game’s map. Let that sink in for a second. Then, realize that’s only accounting for everything above the waterline. Venture beneath ",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Crimson-Desert-Ocean-Featured.jpg?w=1056",
+      "published": "2026-11-12T18:30:00Z"
+    },
+    {
+      "title": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
+      "url": "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Asha Sharma doesn't specifically mention AI in her 25th anniversary message, but I'm pretty sure that's what she's talking about.",
+      "image": "https://cdn.mos.cms.futurecdn.net/HggwSWr5d5qdRucowUPLXB-1920-80.jpg",
+      "published": "2026-11-12T18:29:49Z"
+    },
+    {
+      "title": "DCU Lex Luthor Star Nicholas Hoult Breaks Silence on James Gunn’s Exit From Studio",
+      "url": "https://comicbook.com/movies/news/dcu-lex-luthor-star-nicholas-hoult-breaks-silence-on-james-gunns-exit-from-studio/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "IMAGE COURTESY OF HBO Numerous collaborators of James Gunn’s have spoken out since his dismissal as co-head of DC Studios, from Chris Pratt to Frank Grillo. Just like when Gunn was initially fired from Marvel over the unearthing of tasteless Twitter ",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/09/Nicholas-Hoult-as-Lex-Luthor-in-Superman-2025.jpg?w=1056",
+      "published": "2026-11-12T18:13:11Z"
+    },
+    {
+      "title": "12 Years After Release, Interstellar Is Officially Getting Its Own LEGO Set",
+      "url": "https://comicbook.com/collectibles/news/interstellar-lego-set-reveal/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Over 12 years after hitting theaters, Christopher Nolan’s beloved sci-fi film, Interstellar, is officially getting its own LEGO set. Despite not being Nolan’s newest movie, Interstellar is easily one of the director’s most popular in his filmography.",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Interstellar.jpg?w=1056",
+      "published": "2026-11-12T18:10:16Z"
+    },
+    {
+      "title": "Everyone is Franklin in GTA 5 now",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "To be Frank.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6edxdR34bYAShChef7AUa8-1920-80.jpg",
+      "published": "2026-11-12T18:00:00Z"
+    },
+    {
+      "title": "Disney to Premiere Lilas Dreams & Memories Documentary About YOASOBI's Lilas Ikuta on December 30",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "summary": "2-part documentary about ikura's experience with High School Musical streams/airs on December 30",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS7/youtube/6vu6ubwgQoQ.jpg",
+      "published": "2026-11-12T18:00:00Z",
+      "image_source": "Anime News Network"
+    },
+    {
+      "title": "Star Wars: A New Hope Rerelease Details Reveal New Restoration & 2 Ridiculous Theater Experiences",
+      "url": "https://comicbook.com/movies/news/star-wars-a-new-hope-rerelease-details-reveal-new-restoration-2-ridiculous-theater-experiences/",
+      "source": "ComicBook.com",
+      "category": "Film",
+      "summary": "Lucasfilm has confirmed that when the original Star Wars rereleases in theaters this February for its 50th anniversary, you’ll be able to see it in ways that George Lucas never could have imagined back in 1977. A sweeping announcement from the studio",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/star-wars-50.jpg?w=1056",
+      "published": "2026-11-12T17:59:20Z"
+    },
+    {
+      "title": "DCU Report Reveals Fans Are Very Divided on James Gunn Exit & What Should Happen Next",
+      "url": "https://comicbook.com/movies/news/dcu-report-reveals-fans-are-very-divided-on-james-gunn-exit-what-should-happen-next/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Warner Bros. The major change-up at DC Studios is still rocking the entertainment world, with Warner Bros. letting go of co-heads James Gunn and Peter Safran as it enters a new era following its merger with Skydance. Now, former Marvel executive Jere",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/08/DC-Extended-Universe-History-Explained.jpg?w=1056",
+      "published": "2026-11-12T17:51:47Z"
+    },
+    {
+      "title": "Marvel’s Fourth-Wall-Breaking Heroine Debuted 11 Years Ago, But Not in the Comic You’d Expect",
+      "url": "https://comicbook.com/comics/feature/marvels-fourth-wall-breaking-heroine-debuted-11-years-ago-but-not-in-the-comic-youd-expect/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Image Courtesy of Marvel Comics It has been 11 years since Marvel’s most beloved fourth-wall-breaking heroine debuted in Marvel Comics, and she showed up in the perfect title. Fourth-wall-breaking characters have been around for years, with She-Hulk ",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Gwenpool-in-Marvel-Comics.jpg?w=1056",
+      "published": "2026-11-12T17:51:00Z"
+    },
+    {
+      "title": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
+      "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Huang's permanent replacement will have some massive shoes to fill.",
+      "image": "https://cdn.mos.cms.futurecdn.net/g9q7QM5KH2vKcorscHULj7-1920-80.jpg",
+      "published": "2026-11-12T17:50:22Z"
+    },
+    {
+      "title": "Darktide's getting a Sisters of Battle class on December 7",
+      "url": "https://www.pcgamer.com/games/fps/darktides-getting-a-sisters-of-battle-class-on-december-7/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Technically a Sister Novitiate but still.",
+      "image": "https://cdn.mos.cms.futurecdn.net/cvmrgLjkh6gyJZdQQeodfS-1920-80.jpg",
+      "published": "2026-11-12T17:40:30Z"
+    },
+    {
+      "title": "After Jensen Huang's resignation from Nvidia, it's all praise or political finger-wagging about the ex-CEO, with little in between",
+      "url": "https://www.pcgamer.com/hardware/after-jensen-huangs-resignation-from-nvidia-its-all-praise-or-political-finger-wagging-about-the-ex-ceo-with-little-in-between/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Sadness is the general sentiment, it seems.",
+      "image": "https://cdn.mos.cms.futurecdn.net/rHxkg3Pp7WErRnCTGsVow8-1920-80.jpg",
+      "published": "2026-11-12T17:35:37Z"
+    },
+    {
+      "title": "Nvidia stocks jump back up after ex-CEO Jensen Huang's ousting",
+      "url": "https://www.pcgamer.com/hardware/nvidia-stocks-jump-back-up-after-ex-ceo-jensen-huangs-ousting/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Nvidia's share price has seemingly grown by around 10% since pre-market trading lows.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kHuY4jFFVYqZxzAx2bbAdn-1920-80.jpg",
+      "published": "2026-11-12T17:34:31Z"
+    },
+    {
+      "title": "Next Nvidia CEO has to have national security as a 'top priority' says chairman of US Gov committee on China – claims Huang departure 'could have been avoided'",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/next-nvidia-ceo-has-to-have-national-security-as-a-top-priority-says-chairman-of-us-gov-committee-on-china-claims-huang-departure-could-have-been-avoided/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "A clear message to Nvidia's board.",
+      "image": "https://cdn.mos.cms.futurecdn.net/MzTzZq7AuVhTzmWxrusWDb-1920-80.jpg",
+      "published": "2026-11-12T17:27:15Z"
+    },
+    {
+      "title": "'I'm a big Zach Cregger fan': Angela Sant'Albano gushes about the Resident Evil movie and likens Bryan to her own Grace Ashcroft",
+      "url": "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Grace and Bryan—two peas in a very scared pod.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WrFTkezfETAALqfzraVdfc-1920-80.png",
+      "published": "2026-11-12T17:23:11Z"
+    },
+    {
+      "title": "Xbox CEO’s 25th Anniversary Message Is About AI, Even If She Won’t Say It",
+      "url": "https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it/",
+      "source": "GameSpot",
+      "category": "Games",
+      "summary": "As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gaming is going over the next 25 years, and people are saying her message is really more about pushing AI. Sharma said modern games demonstrate the \"height",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset-1.png?w=300",
+      "published": "2026-11-12T17:11:42Z"
+    },
+    {
+      "title": "James Tynion IV’s First Christmas Children’s Book Comes Complete With an Animated Trailer (Exclusive)",
+      "url": "https://comicbook.com/comics/news/james-tynion-ivs-first-christmas-childrens-book-comes-complete-with-an-animated-trailer-exclusive/",
+      "source": "ComicBook.com",
+      "category": "Film",
+      "summary": "Image Courtesy of Tiny Onion James Tynion IV’s Tiny Onion production house, created by Tynion to work on his many acclaimed projects, is officially moving into full-fledged publication, creating the Crying Eye Press imprint. The company is breaking i",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Crumbs-a-Very-Bad-Elf.jpg?w=1056",
+      "published": "2026-11-12T17:00:00Z"
+    },
     {
       "title": "Onimusha: Way of the Sword Has One Big Gameplay Feature That Phantom Blade Zero Lacks",
       "url": "https://comicbook.com/gaming/feature/onimusha-way-of-the-sword-has-one-big-gameplay-feature-that-phantom-blade-zero-lacks/",
@@ -12,12 +203,12 @@
       "published": "2026-11-12T17:00:00Z"
     },
     {
-      "title": "James Tynion IV’s First Christmas Children’s Book Comes Complete With an Animated Trailer (Exclusive)",
-      "url": "https://comicbook.com/comics/news/james-tynion-ivs-first-christmas-childrens-book-comes-complete-with-an-animated-trailer-exclusive/",
-      "source": "ComicBook.com",
+      "title": "Ebenezer Review",
+      "url": "https://www.ign.com/articles/ebenezer-review",
+      "source": "IGN",
       "category": "Film",
-      "summary": "Image Courtesy of Tiny Onion James Tynion IV’s Tiny Onion production house, created by Tynion to work on his many acclaimed projects, is officially moving into full-fledged publication, creating the Crying Eye Press imprint. The company is breaking i",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Crumbs-a-Very-Bad-Elf.jpg?w=1056",
+      "summary": "Ti West’s Ebenezer does a respectable enough job taking a more horror-forward approach to A Christmas Carol, but the busy Johnny Depp performance at the heart of the film pulls more focus than is necessary.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/12/ebenezeroo-1794446499510.jpg",
       "published": "2026-11-12T17:00:00Z"
     },
     {
@@ -58,6 +249,24 @@
       "image_source": "Anime News Network"
     },
     {
+      "title": "GTA 4’s Three Leaf Clover Heist Showed How Not to Rob a Bank – Art of the Level",
+      "url": "https://www.ign.com/articles/gta-4-michael-mann-heat-heist",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "This is how Michael Mann’s Heat inspired GTA 4’s legendary Three Leaf Clover mission, shaping Rockstar’s realistic sound design and the future of videogame heists.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/11/blog-1794413799371.jpg",
+      "published": "2026-11-12T16:30:00Z"
+    },
+    {
+      "title": "Saros Gets $20 Discount at Amazon Ahead of Black Friday, Returning to Its Lowest Price Point There",
+      "url": "https://www.ign.com/articles/saros-gets-20-discount-at-amazon-ahead-of-black-friday-returning-to-its-lowest-price-point-there",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "Physical copies of Saros on PS5 are $20 off at Amazon ahead of Black Friday sales, returning the game to its lowest price point there of $49.99.",
+      "image": "https://assets-prd.ignimgs.com/2026/04/29/saros5-1777427936279.jpg",
+      "published": "2026-11-12T16:29:37Z"
+    },
+    {
       "title": "Avengers: Doomsday Reveals Best Look Yet at Comic-Accurate X-Men And Once Impossible Marvel Crossovers",
       "url": "https://comicbook.com/movies/news/avengers-doomsday-reveals-best-look-yet-at-comic-accurate-x-men-and-once-impossible-marvel-crossovers/",
       "source": "ComicBook.com",
@@ -74,6 +283,15 @@
       "summary": "For nearly fifty years, toy companies have been a little stymied by one of R2-D2‘s signature design elements: his retractable middle leg, which has been everything from a separate, removable part to a concealed mechanism inside the figure. Kenner’s s",
       "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/Qoqzk9iGvWWdrY6Zdzm7nL.jpg?w=1056",
       "published": "2026-11-12T16:17:00Z"
+    },
+    {
+      "title": "Asda Is Now Offering The Best Deal on Grand Theft Auto for PS5 in the UK",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-ps5-best-preorder-deals-uk",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "Asda is offering gamers a discount on Grand Theft Auto 6 for PS5 in a new limited-time preorder deal. Here's how you can claim the promo coupon before launch day and save over £10 on your purchase.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/12/gta-6-ps5-best-deals-uk-1794499682853.png",
+      "published": "2026-11-12T16:12:50Z"
     },
     {
       "title": "Pokemon Legends: Z-A’s New Mystery Gift Code Gives Players a Beloved Shiny Legendary",
@@ -1973,228 +2191,6 @@
       "summary": "The Marvel Cinematic Universe is about to have its dance with Doom, but it wasn’t actually supposed to be that way. After the end of the Infinity Saga, Marvel Studios started to seed the beginnings of their next saga, slowly but surely introducing mu",
       "image": "https://comicbook.com/wp-content/uploads/sites/4/2023/11/dca880b6-a255-4f21-be66-c599e623f979.jpg?w=1056",
       "published": "2026-11-11T10:23:00Z"
-    },
-    {
-      "title": "This Vampire Movie Still Has Its Charm 32 Years Later (And Its Acclaimed TV Series Can’t Replace It)",
-      "url": "https://comicbook.com/movies/feature/this-vampire-movie-still-has-its-charm-32-years-later-and-its-acclaimed-tv-series-cant-replace-it/",
-      "source": "ComicBook.com",
-      "category": "Film",
-      "summary": "For a long time, vampire movies were tied to horror and dark stories, as seen in films like Nosferatu, Horror of Dracula, and Salem’s Lot. But over the years, filmmakers started exploring different takes on the genre, giving us movies such as Bram St",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/interview-with-the-vampire-antonio-banderas.jpg?w=1056",
-      "published": "2026-11-11T10:16:00Z"
-    },
-    {
-      "title": "Tomoko Ninomiya's Nanatsu-ya: Shinobu and Her Jewelry Box Manga Gets TV Anime in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-11/tomoko-ninomiya-nanatsu-ya-shinobu-and-her-jewelry-box-manga-gets-tv-anime-in-2027/.243715",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "Nodame Cantabile: Finale director Chiaki Kon helms anime at J.C.STAFF",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/youtube/91yBQCHHjZ8.jpg",
-      "published": "2026-11-11T09:48:56Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion Remastered Physical Edition is Finally Back in Stock for Switch 2",
-      "url": "https://www.ign.com/articles/elder-scrolls-oblivion-remastered-switch-2-physical-edition-in-stock",
-      "source": "IGN",
-      "category": "Games",
-      "summary": "After months of scarcity, physical copies of The Elder Scrolls IV: Oblivion Remastered for Switch 2 are finally back in stock at retailers in the US.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/11/oblivion-remastered-back-in-stock-for-switch-2-1794389761405.png",
-      "published": "2026-11-11T09:45:36Z"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Is a Huge Success for Nintendo — And Just Broke a Switch 2 Sales Record",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record",
-      "source": "IGN",
-      "category": "Games",
-      "summary": "The Legend of Zelda: Ocarina of Time has broken a sale records for Nintendo, becoming the fastest-selling Switch 2 game over its first four days of availability.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/zelda-poe-br-1793728620295.jpg",
-      "published": "2026-11-11T09:45:16Z"
-    },
-    {
-      "title": "CyberAgent Partners With MAPPA, Acquires Stake in Studio's Parent Company MHD",
-      "url": "https://animecorner.me/cyberagent-partners-with-mappa-acquires-stake-in-studios-parent-company-mhd/",
-      "source": "Anime Corner",
-      "category": "Anime",
-      "summary": "CyberAgent has entered into a business partnership with animation studio MAPPA and acquired a stake in MAPPA’s parent company, MHD.",
-      "image": "",
-      "published": "2026-11-11T09:29:07Z"
-    },
-    {
-      "title": "Nanatsu-ya: Shinobu and Her Jewelry Box Anime Announced for 2027, Reveals Teaser Visual and Trailer",
-      "url": "https://animecorner.me/nanatsu-ya-shinobu-and-her-jewelry-box-anime-announced-for-2027-reveals-teaser-visual-and-trailer/",
-      "source": "Anime Corner",
-      "category": "Anime",
-      "summary": "The anime adaptation of Tomoko Ninomiya’s Nanatsu-ya: Shinobu and Her Jewelry Box has been officially announced for 2027.",
-      "image": "",
-      "published": "2026-11-11T09:18:26Z"
-    },
-    {
-      "title": "3 DCU Cliffhangers That We’re Worried About After the James Gunn News",
-      "url": "https://comicbook.com/movies/list/3-dcu-cliffhangers-that-were-worried-about-after-the-james-gunn-news/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image Courtesy of HBO James Gunn had big plans for the future of the DC Universe (DCU), and he set up some storylines during his four years with Warner Bros. However, Skydance chose to move on from Gunn and brought in Jeremy Latcham to serve as the n",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/John-Cena-as-Peacemaker.jpg?w=1056",
-      "published": "2026-11-11T09:11:00Z"
-    },
-    {
-      "title": "Magic: The Gathering’s Star Trek Booster Box Got Another Price Drop Right Before Black Friday… and Launch",
-      "url": "https://www.ign.com/articles/magic-the-gathering-star-trek-booster-box-early-black-friday-deal",
-      "source": "IGN",
-      "category": "Games",
-      "summary": "Amazon dropped the price of the upcoming Magic: The Gathering Star Trek Play Booster Box by 40% just days before launch, bringing packs down to effectively $4.17 each ahead of release and the Black Friday sales.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/20/star-trek-boosters-on-sale-1787234785687-1792511640034.webp",
-      "published": "2026-11-11T09:06:36Z"
-    },
-    {
-      "title": "Berserk of Gluttony Season 2 Reveals Teaser Visual, April 2027 Release Date",
-      "url": "https://animecorner.me/berserk-of-gluttony-season-2-reveals-teaser-visual-april-2027-release-date/",
-      "source": "Anime Corner",
-      "category": "Anime",
-      "summary": "Berserk of Gluttony Season 2 will officially premiere in April 2027, with a new teaser visual revealed for the announcement.",
-      "image": "",
-      "published": "2026-11-11T09:00:12Z"
-    },
-    {
-      "title": "Berserk of Gluttony Season 2 Premieres Next April",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-11/berserk-of-gluttony-season-2-premieres-next-april/.243681",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "New teaser visual also revealed",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/cms/news.10/243681/berserk.jpg",
-      "published": "2026-11-11T09:00:00Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "≠ME Idol Momo Sakurai Voice-Acts, Sings in Gacha Girls Corps Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-11/me-idol-momo-sakurai-voice-acts-sings-in-gacha-girls-corps-anime/.243711",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "Sakurai voices rabbit Mofutto, sings Mofutto's version of ending song \"Mofu-kyun Heart♡\"",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/youtube/LOLadzUekC4.jpg",
-      "published": "2026-11-11T08:07:20Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "VisionQuest Ending & Post-Credits Scenes Explained: How It All Connects to Avengers: Doomsday & Secret Wars",
-      "url": "https://comicbook.com/tv-shows/feature/visionquest-ending-post-credits-scenes-explained-how-connects-to-avengers-doomsday-secret-wars/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Marvel Studios VisionQuest has premiered its finale episode, the final chapter in the “WandaVision trilogy,” which started in WandaVision (2021) and continued through Agatha All Along (2024). The entire saga has been a story of grief, loss, and the h",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/VisionQuest-Post-Credits-Scene-Wanda-Scarlet-Witch-Avengers-Doomsday.jpg?w=1056",
-      "published": "2026-11-11T05:46:26Z"
-    },
-    {
-      "title": "Bethesda Dashes Hopes of The Elder Scrolls 6 Fans on Eve of Skyrim Anniversary",
-      "url": "https://comicbook.com/gaming/news/the-elder-scrolls-6-sentinel-skyrim-bethesda-anniversary-update/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "The Elder Scrolls 6: Sentinel fans have been dealt a blow by Bethesda Game Studios on the anniversary of The Elder Scrolls V: Skyrim. Exactly 15 years ago, on 11/11/2011, Bethesda Game Studios released one of the greatest RPGs of all time. 15 years l",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2024/11/t-h-e-e-l-d-e-r-s-c-r-o-l-l-s-6_f5b063.png?w=1056",
-      "published": "2026-11-11T05:42:03Z"
-    },
-    {
-      "title": "VisionQuest Just Brought Back the One Character Everyone Wanted & It Changed the Doomsday Countdown – Watch",
-      "url": "https://comicbook.com/tv-shows/news/visionquest-just-brought-back-the-one-character-everyone-wanted-it-changed-the-doomsday-countdown-watch/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "IMAGE COURTESY OF MARVEL STUDIOS In a surprise to even critics who had seen all of VisionQuest‘s episodes early, Disney+ just tacked on a new end credits scene that features a pretty big return. After a final scene featuring Ultron, the action shifts",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/rdj-avenbers-doomsday.jpg?w=1056",
-      "published": "2026-11-11T04:13:39Z"
-    },
-    {
-      "title": "Aoharu Once More Light Anime's Teaser Reveals Cast, More Staff, January 2027 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/aoharu-once-more-light-anime-teaser-reveals-cast-more-staff-january-2027-debut/.243708",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "Tasuku Kaito, Kazuki Ura star in BL story",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/zydSyuyy0q8.jpg",
-      "published": "2026-11-11T04:06:22Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "3 New Anime to Watch If You Miss 90s Anime",
-      "url": "https://comicbook.com/anime/list/3-new-anime-to-watch-if-you-miss-90s-anime/",
-      "source": "ComicBook.com",
-      "category": "Anime",
-      "summary": "Image Courtesy of MAPPA There’s no denying that the 1990s was a revolutionary decade for the anime industry, as it introduced several iconic films and series that are still loved even now. The animation styles were distinctive, with grainy visuals th",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Anime-Lazarus.jpg?w=1056",
-      "published": "2026-11-11T04:01:26Z"
-    },
-    {
-      "title": "12 Years Ago, Naruto Reached Its Controversial Ending & It Isn’t As Bad As You Remember",
-      "url": "https://comicbook.com/anime/feature/12-years-ago-naruto-reached-its-controversial-ending-it-isnt-as-bad-as-you-remember/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image Courtesy of Viz Media The legacy of the Shonen Big Three remains unmatched even though several years have passed since their debut, as they still maintain a huge fan base across the globe. As the new era of the anime and manga industry began wi",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Naruto-Manga-Viz.jpg?w=1056",
-      "published": "2026-11-11T03:25:37Z"
-    },
-    {
-      "title": "Kodansha Launches 1999Tokoyo Building Horror Game on Steam",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/kodansha-launches-1999tokoyo-building-horror-game-on-steam/.243702",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "Visual novel/adventure game launched on Monday for PC",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/C-EVYvtl24s.jpg",
-      "published": "2026-11-11T03:00:42Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "Modern DC Comics Owes Everything to These 5 Artists and One Changed Its Future Forever",
-      "url": "https://comicbook.com/comics/list/modern-dc-comics-owes-everything-to-these-5-artists-and-one-changed-its-future-forever/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image Courtesy of DC Comics DC Comics has played a key role in making the superhero as popular as it has become. Characters like Superman, Batman, Wonder Woman, the Flash, Lex Luthor, Green Lantern, the Joker, Harley Quinn, Darkseid, and numerous oth",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/Darkseid-vs.-the-Justice-League.jpg?w=1056",
-      "published": "2026-11-11T02:46:00Z"
-    },
-    {
-      "title": "Mameshiba Characters Get Oyatsushiba Spinoff Short Net Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/mameshiba-characters-get-oyatsushiba-spinoff-short-net-anime/.243704",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "Anime about characters inspired by sweet rice cakes debuts on Friday",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243704/oyatsushiba.jpg.webp",
-      "published": "2026-11-11T02:43:00Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "Stacy Keach, Star of Batman: Mask of the Phantasm, Prison Break, & More Dead at 85",
-      "url": "https://comicbook.com/movies/news/stacy-keach-star-of-batman-mask-of-the-phantasm-prison-break-more-dead-at-85/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Veteran actor Stacy Keach has passed away at 85 after a career spanning more than six decades. Besides his work in comic book movies such as Batman: Mask of the Phantasm and Sin City: A Dame to Kill For, Keach has starred in Mickey Spillane’s Mike Ha",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Stacy-Keach-Mike-Hammer.jpg?w=1056",
-      "published": "2026-11-11T02:39:46Z"
-    },
-    {
-      "title": "HBO’s Lanterns May Not Get a Season 2 Amidst DCU Shakeup [Updated]",
-      "url": "https://comicbook.com/tv-shows/news/hbos-lanterns-will-not-get-a-season-2-amidst-dcu-shakeup/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "UPDATE: Warner Bros. reached out and notified press that Variety has updated the wording in their report – which now states that Lanterns “has yet to be renewed” for season 2 rather that the original wording “didn’t get renewed” which was much more d",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/08/Lanterns-John-Hal.jpg?w=1056",
-      "published": "2026-11-11T02:17:31Z"
-    },
-    {
-      "title": "42 Years Later, This Sci-Fi Masterpiece With a 90% RT Score Is Back in the Global Streaming Charts",
-      "url": "https://comicbook.com/movies/news/42-years-later-this-sci-fi-masterpiece-with-a-90-rt-score-is-back-in-the-global-streaming-charts/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Courtesy of Orion Pictures There are some movies that become ingrained in pop culture for several generations of cinemagoers and than there are movies that almost become a part of life itself. One such movie was doing AI when the idea of robots and c",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/The-Terminator-e1794354162176.jpg?w=1056",
-      "published": "2026-11-11T02:00:00Z"
-    },
-    {
-      "title": "Steam's age verification in Australia now takes your account's age into consideration",
-      "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
-      "source": "PC Gamer",
-      "category": "Games",
-      "summary": "If your Steam account is at least nine years old, you should be good. Maybe.",
-      "image": "https://cdn.mos.cms.futurecdn.net/UoEzWoavREo9zwpFLKCqC-1920-80.jpg",
-      "published": "2026-11-11T01:34:31Z"
     }
   ]
 }
