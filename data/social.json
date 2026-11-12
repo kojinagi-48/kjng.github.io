@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-12T05:08:11.866842+00:00",
+  "updated": "2026-11-12T07:27:55.659201+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23tuclhj42b",
+      "text": "A now-deleted listing for ‘Mega Man Legends — New Media’ was spotted on a ‘What’s Shooting’ page for ACTRA Toronto, hinting that a new game, film, or TV series in the franchise's 'Legends' series is in the works. https://bit.ly/4zhyEJl",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T06:31:01.174968884Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23rc2nhwh2y",
+      "text": "The director of Constantine, Francis Lawrence, opened up about the movie's long-awaited sequel now that DC Studios has had a changing of the guard. https://bit.ly/3UrIlqr",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T05:45:01.390630628Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23ppy7xxk24",
+      "text": "The most recent GTA 6 trailer has many people wondering if an iconic character from a previous game in the franchise is making a return. https://bit.ly/4kc4p2O",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T05:17:01.129893593Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n23orxt5tt2b",
       "text": "Codename Hexe is the series’ next flagship game",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-10T19:20:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzy4tlmv642b",
-      "text": "With Man of Tomorrow due out next summer, James Gunn was reportedly in the middle of writing a third Superman movie, and planned to release a new Superman movie every two years before potentially evolving Superman into a Justice League franchise. https://bit.ly/4iB8NXK",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T19:01:01.825368225Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzy4s2potn2x",
-      "text": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T19:00:08+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3mzy34o7eto2b",
-      "text": "Rockstar is eager to talk about GTA 6 on PS5 and Xbox, but what about PC?",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T18:30:18Z",
       "platform": "Bluesky"
     }
   ]
