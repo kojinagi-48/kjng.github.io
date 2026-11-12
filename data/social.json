@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-12T01:21:02.403273+00:00",
+  "updated": "2026-11-12T02:57:25.605927+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23erjcjpt2s",
+      "text": "The 2026 Street Fighter film has just barely fallen short of dethroning the original 1994 movie, which still holds its record as the highest-grossing Street Fighter adaptation put to screens. https://bit.ly/4zFHRMr",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T02:01:01.43164074Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23duw62g42u",
+      "text": "A death metal guitarist is so into WoW Forever, he took it onstage with a Steam Deck. https://bit.ly/4iD3w21",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T01:45:01.838469518Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23d3uhrpw2p",
+      "text": "Nintendo has sent four DMCA takedown notices to GitHub targeting two Nintendo Switch emulators, Yuzu and Citron Neo, along with mod chip firmware. https://bit.ly/4kbTlCO",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T01:31:01.198416514Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23ccthl722s",
       "text": "The idea of a modern crime film addressing the hopelessness so many feel about getting a financial foothold is ripe with possibilities, but How to Rob a Bank doesn’t live up to that potential.\n\nOur review: https://bit.ly/4ewlD7i",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-10T16:28:03.095Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mzxtk34ecw2z",
-      "text": "Marathon's Symbiosis update adds a permanent PvE mode, a new Runner Shell, Deathmatch, and more next month. gameinformer.com/2026/11/10/m...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T16:14:38.851Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mzxt2c2ycd2a",
-      "text": "Developer House House has disclosed AI use in \"under 0.1%\" of Big Walk's code following voting controversy ahead of the upcoming Independent Games Festival. gameinformer.com/2026/11/10/h...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T16:05:49.275Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3mzxsu2tbry2h",
-      "text": "Marvel Cosmic Invasion's new roguelite Doctor Doom-themed DLC gives the retro brawler the post-game tail it was missing.\n\nOur impressions: gameinformer.com/impressions/...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-10T16:02:20.355Z",
       "platform": "Bluesky"
     }
   ]
