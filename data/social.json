@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-12T22:56:15.149737+00:00",
+  "updated": "2026-11-13T01:16:57.661905+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25rv5lkwc2q",
+      "text": "The latest GDC developer survey shows that AI usage is up, while PS6 and Xbox Helix development is still low. https://bit.ly/4AusyX3",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-13T01:01:01.485310057Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n25ru5i7xv2b",
+      "text": "Xbox CEO Asha Sharma wrote a post implying the company will lean into using AI to develop its games.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-13T01:00:27Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25pfqag2j2i",
+      "text": "As part of the Xbox's 25th anniversary celebration at Xbox Fanfest in Seattle today, developer MachineGames and franchise creators id Software confirmed what had long been rumored: that Wolfenstein 3 is in development. https://bit.ly/4sZfExQ",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-13T00:16:36.688776613Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25owudqoz2q",
+      "text": "Wolfenstein 3 is in development, developer MachineGames and franchise creators id Software confirmed. https://bit.ly/4sZfExQ",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-13T00:08:17.670503591Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n25n3ico2y2j",
+      "text": "Nintendo Adds More Dates For The Zelda 40th Anniversary Concert Tour (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T23:35:03+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25mu7nvgr2c",
+      "text": "Rockstar has released yet another in-game clip from GTA 6, and like yesterday's footage, fans can't quite believe it's real. https://bit.ly/4BQUohE",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T23:31:01.397200365Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n25msuihi32g",
+      "text": "One more way to tune into Geoff Keighley's award extravaganza to see who takes home Game of the Year",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T23:30:16Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25lzfcq7b2t",
+      "text": "GTA 6 was almost too much for South Korean ratings board GCRB, who struggled to agree whether the game should be approved or not. The board cited “out of context genital nudity” as the sticking point. https://bit.ly/4sWf6Zr",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T23:16:01.349762005Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25l6lagch2v",
+      "text": "Four minutes of new Fable gameplay has been released by Xbox, showing off more of the game's combat. https://bit.ly/3XmZD8Y",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-12T23:01:01.597886491Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3n25jjfsmhc2m",
       "text": "Grand Theft Auto VI launches on PS5 in one week.\n\nPre-orders available now: play.st/4ziEdam",
@@ -780,105 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-11T17:15:30.332229532Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n22ewbxrqp2l",
-      "text": "Colin Farrell has confirmed he only appears in two scenes as the Penguin in The Batman Part II, but would love to play the character again in a potential Season 2 of the HBO show, insisting \"there's a conversation to be had.\" https://bit.ly/3UUfXgL",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T16:31:01.775909054Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n22daws2kd2u",
-      "text": "There are puzzles well worth solving in the new series The Good Daughter, starring Rose Byrne and Meghann Fahy.\n\nCheck out our full review: https://bit.ly/4BWnITS",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T16:01:11.67029977Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n22bztzv6z2w",
-      "text": "The Legend of Zelda: Ocarina of Time (2026 remake) is Nintendo's fastest-selling Switch 2 game ever. gameinformer.com/2026/11/11/t...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T15:39:20.160Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n22bkywbbi2s",
-      "text": "15 years after release, Skyrim's icy, dangerous world feels warm and cozy. But why has this dark fantasy become such a comfort play? We spoke to experts and developers to find out. https://bit.ly/4sUayTv",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T15:31:01.963405609Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n22a5wsgtw2r",
-      "text": "In each issue, Game Informer prints questions and comments that are submitted by readers. Leave a question or thought you’d like us to react to and see if it gets featured in a future issue!",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T15:05:49.799Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2267q3zdc2u",
-      "text": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake. https://bit.ly/4zcPEjO",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T14:31:02.390167713Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n224kd6kne2o",
-      "text": "Enjoy ten minutes of gameplay from Trollheim: Gnomes, the upcoming PvE survival crafting game for up to eight players in co-op where you play as Sprýg Gnomes from Nordic folklore, living in the Dark Forest. https://bit.ly/4zGVhYT",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T14:01:10.45837249Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3mzzzzmre3g2p",
-      "text": "Nintendo has already shifted 5.2 million copies of The Legend of Zelda: Ocarina of Time remake, now the fastest-selling Switch 2 game over its first four days of availability. https://bit.ly/4exXCwG",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T13:16:02.604360998Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3mzzxqfevy62p",
-      "text": "Round Up: The Reviews Are In For Pikmin 4 - Switch 2 Edition + Dandori Academy (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-11T12:35:03+00:00",
       "platform": "Bluesky"
     }
   ]
