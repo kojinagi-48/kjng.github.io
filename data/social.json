@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-13T07:25:13.182719+00:00",
+  "updated": "2026-11-13T09:06:05.310690+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n26jct3jfx24",
+      "text": "The classic Mario Kart World + Nintendo Switch 2 bundle returns",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-13T08:00:16Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n26jcls2l22n",
+      "text": "The last-minute addition of a new villain derails the finale of VisionQuest somewhat, but the series still succeeds where Vision and Ultron are concerned.\n\nOur review: bit.ly/3Wxwt6V",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-13T08:00:08Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n26hmthszv2q",
+      "text": "Olivier Richters, the seven-foot-tall actor who played Zangief in the 2026 Street Fighter movie, competed in a Street Fighter 6 tournament using the same character he portrayed in the film. bit.ly/3XmAUl8",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-13T07:30:04Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n26gtox4472w",
       "text": "The Body suffers from some of the typical streaming show bloat, but it has plenty of great scenes with a fresh cast that make it worthwhile.\n\nOur review: https://bit.ly/4iP3kLK",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-12T02:01:01.43164074Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23duw62g42u",
-      "text": "A death metal guitarist is so into WoW Forever, he took it onstage with a Steam Deck. https://bit.ly/4iD3w21",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-12T01:45:01.838469518Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23d3uhrpw2p",
-      "text": "Nintendo has sent four DMCA takedown notices to GitHub targeting two Nintendo Switch emulators, Yuzu and Citron Neo, along with mod chip firmware. https://bit.ly/4kbTlCO",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-12T01:31:01.198416514Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n23ccthl722s",
-      "text": "The idea of a modern crime film addressing the hopelessness so many feel about getting a financial foothold is ripe with possibilities, but How to Rob a Bank doesn’t live up to that potential.\n\nOur review: https://bit.ly/4ewlD7i",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreiav4kwx6ta45mek5midpnoe32sjek76c7fqzwcul3wp44rddwa4e4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-12T01:17:01.283734112Z",
       "platform": "Bluesky"
     }
   ]
