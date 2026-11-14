@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-14T16:48:49.832407+00:00",
+  "updated": "2026-11-14T18:52:03.649448+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2c3dxni5p2q",
+      "text": "Rahul Kohli joins IGN to play three of his favorite games - Ocarina of Time, Doom, and Red Dead Redemption - on a brand-new episode of IGN Arcade! https://bit.ly/4iUgQOm",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T18:01:01.202468907Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2bzmtxqmi2b",
+      "text": "House House's Game of the Year contender used an LLM to get over the finish line, but the run to get there was pure human craft.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T17:30:11Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2bulsmzar2o",
       "text": "Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T02:25:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25w3b65ys2r",
-      "text": "Popeyes has revealed a new \"Spice City\" chicken sandwich that will be available in participating stores from November 19 to 22 to coincide with the launch of GTA 6. https://bit.ly/3VnrrJO",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T02:16:01.534428517Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n25umvooii2p",
-      "text": "The Pokémon Company Is Giving Away Free In-Game Pokopia Furniture, And It's Adorable (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T01:50:04+00:00",
       "platform": "Bluesky"
     }
   ]
