@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-14T18:52:03.649448+00:00",
+  "updated": "2026-11-14T20:46:16.756443+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2cdomuunp2z",
+      "text": "Alcon Entertainment confirmed it has had discussions about creating a AAA game based on Blade Runner",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T20:30:08Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2c3dxni5p2q",
       "text": "Rahul Kohli joins IGN to play three of his favorite games - Ocarina of Time, Doom, and Red Dead Redemption - on a brand-new episode of IGN Arcade! https://bit.ly/4iUgQOm",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T02:30:15Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n25wli4cs62r",
-      "text": "DOOM Developer id Software Confirms It's Working On A New Game",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T02:25:03+00:00",
       "platform": "Bluesky"
     }
   ]
