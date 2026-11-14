@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-14T04:59:08.242524+00:00",
+  "updated": "2026-11-14T07:08:53.892998+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2at4iy34z2l",
+      "text": "Apple TV’s new heist series 12 12 12 is predicated on a timeline-hopping gimmick that only works as an elevator pitch.\n\nOur review: https://bit.ly/3UOflJB",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T06:01:01.266080149Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2argubrnu2t",
+      "text": "Crimson Desert’s Charting the Unknown DLC is unlikely to win over anyone who hadn’t already fallen in love with this massive world, but it does successfully expand a game that already had a staggering amount of stuff to do. \n\nOur review: https://bit.ly/3X7tK49",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T05:31:01.178825263Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2apr7qak224",
+      "text": "Today, Friday the 13th, a new Friday the 13th movie has been announced for 2027. It will be the 13th in the horror film franchise. https://bit.ly/4AtGnFd",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T05:01:01.249072561Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2ao3kvmit2w",
       "text": "Jessica Chastain locks in for a country music mystery that unfolds on autopilot in Heartland.\n\nOur review: https://bit.ly/4zKKEEa",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-12T23:16:01.349762005Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25l6lagch2v",
-      "text": "Four minutes of new Fable gameplay has been released by Xbox, showing off more of the game's combat. https://bit.ly/3XmZD8Y",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-12T23:01:01.597886491Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3n25jjfsmhc2m",
-      "text": "Grand Theft Auto VI launches on PS5 in one week.\n\nPre-orders available now: play.st/4ziEdam",
-      "author": "PlayStation",
-      "handle": "playstation.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nfshkzomgboapasu6amkhui/bafkreic6hd57x7uoxrzsjku76stwatskovjznvevuq4n4rdzmkd7se25n4",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-11-12T22:31:17.530Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n25hinfqdp2j",
-      "text": "Cosy Train Sim 'Station To Station' Arrives On Switch 2 Later This Month (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-12T21:55:02+00:00",
       "platform": "Bluesky"
     }
   ]
