@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-14T01:09:04.423834+00:00",
+  "updated": "2026-11-14T02:57:23.831011+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2aeaxmzer2p",
+      "text": "Nintendo's On The Hunt For A Digital Archivist To Preserve Its Rich History (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T01:35:03+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2accryuuk2j",
       "text": "Yes, Grand Theft Auto 6 is eligible for The Game Awards 2026",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-12T20:16:02.056520009Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n25bhmkzik24",
-      "text": "Halo: Campaign Evolved is getting the fan-favorite Firefight mode in a free update this winter. gameinformer.com/2026/11/12/h...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-12T20:07:07.570Z",
       "platform": "Bluesky"
     }
   ]
