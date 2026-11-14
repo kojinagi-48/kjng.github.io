@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-14T07:08:53.892998+00:00",
+  "updated": "2026-11-14T08:57:19.555764+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2azrpz7de2e",
+      "text": "Batman video game fans are feeling the pain too after this week's news that James Gunn and Peter Safran are stepping down from their roles as co-CEOs at DC Studios. bit.ly/4C1UUcH",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-14T08:00:13Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2at4iy34z2l",
       "text": "Apple TV’s new heist series 12 12 12 is predicated on a timeline-hopping gimmick that only works as an elevator pitch.\n\nOur review: https://bit.ly/3UOflJB",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-12T23:30:16Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n25lzfcq7b2t",
-      "text": "GTA 6 was almost too much for South Korean ratings board GCRB, who struggled to agree whether the game should be approved or not. The board cited “out of context genital nudity” as the sticking point. https://bit.ly/4sWf6Zr",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-12T23:16:01.349762005Z",
       "platform": "Bluesky"
     }
   ]
