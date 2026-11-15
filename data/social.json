@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-15T16:50:08.297268+00:00",
+  "updated": "2026-11-15T18:52:47.006284+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2elzur6qg2z",
+      "text": "🎨 Game Informer Reader Art Spotlight: Ninja Gaiden 4 artwork by Patrick Pham\n\nWant your artwork featured on our social media or in our magazine? If so, submit your art to our Reader Art contest at readerart@gameinformer.com. Entries become the property of Game Informer.",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T18:04:55.728Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2ek3pskdr2k",
+      "text": "After three indie nominees last year, this year’s leading contender is in trouble",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T17:30:10Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2ef37w2vw2p",
       "text": "The PlayStation VR2 is discounted, but the PlayStation 5 is not",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T13:50:03+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n273sauiig2n",
-      "text": "Dragon Age fans have saved one of the series’ most beloved features: being able to import your world states in each game. https://bit.ly/4iGuN3v",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T13:31:01.384727049Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n26za5lbnn2r",
-      "text": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\" (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T12:45:04+00:00",
       "platform": "Bluesky"
     }
   ]
