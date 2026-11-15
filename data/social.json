@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-15T10:51:51.132824+00:00",
+  "updated": "2026-11-15T12:59:58.074101+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dxnnjs7p2u",
+      "text": "A collector has discovered and authenticated what's believed to be the only surviving, playable copy of PokéPark Fishing Rally, a temporary fishing minigame that was only available to play via wireless download at PokéPark in Japan in 2005. bit.ly/4iRPND5",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T12:00:10Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3n2duu7p5kc2j",
+      "text": "PlayStation’s Black Friday Deals start Nov 16. \n\nDiscover what’s on offer: play.st/4zs3OxV",
+      "author": "PlayStation",
+      "handle": "playstation.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nfshkzomgboapasu6amkhui/bafkreic6hd57x7uoxrzsjku76stwatskovjznvevuq4n4rdzmkd7se25n4",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-11-15T11:10:09.810Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dqwujgcq2q",
       "text": "Xbox chief Asha Sharma has discussed her vision of the video games industry's next 25 years, and suggested its future lies in small teams or individuals able to \"wield capabilities that once required entire nations.\" bit.ly/4BZNiYp",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T08:00:16Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n26hmthszv2q",
-      "text": "Olivier Richters, the seven-foot-tall actor who played Zangief in the 2026 Street Fighter movie, competed in a Street Fighter 6 tournament using the same character he portrayed in the film. bit.ly/3XmAUl8",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T07:30:04Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n26gtox4472w",
-      "text": "The Body suffers from some of the typical streaming show bloat, but it has plenty of great scenes with a fresh cast that make it worthwhile.\n\nOur review: https://bit.ly/4iP3kLK",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T07:16:01.158094371Z",
       "platform": "Bluesky"
     }
   ]
