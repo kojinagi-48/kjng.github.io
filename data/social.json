@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-15T05:00:52.654714+00:00",
+  "updated": "2026-11-15T07:11:40.503485+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dgv76em22w",
+      "text": "Rockstar has finally announced performance for GTA 6. It’ll run at 30fps on all consoles, but PS5 Pro enhancements that improve ray tracing. bit.ly/4eCJkLe",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T07:00:10Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2czhuisoe2q",
       "text": "Rockstar has confirmed performance expectations for GTA 6, with it targeting 30FPS on all consoles. PS5 Pro will see some enhancements to ray tracing, however. https://t.co/6cLRGh6PoK",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T06:15:16Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n26cnlkr6q2t",
-      "text": "Check out this new poster for Star Wars ahead of its return to theaters on February 19, 2027 in celebration of the film's 50th anniversary! 🌟",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T06:01:01.303503878Z",
       "platform": "Bluesky"
     }
   ]
