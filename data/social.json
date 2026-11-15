@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-15T07:11:40.503485+00:00",
+  "updated": "2026-11-15T08:57:03.147169+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dkaixupe2r",
+      "text": "PvE is coming to Marathon and Bungie is hoping new players will give it a shot with a free-to-play period at the start of the next Season. It’s called Symbiosis and is landing on December 8. bit.ly/3WFRegQ",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T08:00:10Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2djoghhfc2c",
+      "text": "Zelda Notes Reveals #1 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T07:50:02+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dgv76em22w",
       "text": "Rockstar has finally announced performance for GTA 6. It’ll run at 30fps on all consoles, but PS5 Pro enhancements that improve ray tracing. bit.ly/4eCJkLe",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T06:30:19Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n26diggaqo2c",
-      "text": "Ahead of Xbox's 25th anniversary this weekend, CEO Asha Sharma alluded to embracing AI development, sharing that \"a single person will soon be able to wield capabilities that once required entire nations.\" https://bit.ly/48fs8I4",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T06:16:01.89117619Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n26dh2ryar2b",
-      "text": "Head to the Epic Games Store to claim your free game",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T06:15:16Z",
       "platform": "Bluesky"
     }
   ]
