@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-15T08:57:03.147169+00:00",
+  "updated": "2026-11-15T10:51:51.132824+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dqwujgcq2q",
+      "text": "Xbox chief Asha Sharma has discussed her vision of the video games industry's next 25 years, and suggested its future lies in small teams or individuals able to \"wield capabilities that once required entire nations.\" bit.ly/4BZNiYp",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T10:00:03Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dkaixupe2r",
       "text": "PvE is coming to Marathon and Bungie is hoping new players will give it a shot with a free-to-play period at the start of the next Season. It’s called Symbiosis and is landing on December 8. bit.ly/3WFRegQ",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T07:16:01.158094371Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n26ebyrebz24",
-      "text": "Fortnite game files indicate a Shrek character could be joining the Battle Royale",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T06:30:19Z",
       "platform": "Bluesky"
     }
   ]
