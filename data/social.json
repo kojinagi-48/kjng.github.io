@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-15T02:56:12.716556+00:00",
+  "updated": "2026-11-15T05:00:52.654714+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2czhuisoe2q",
+      "text": "Rockstar has confirmed performance expectations for GTA 6, with it targeting 30FPS on all consoles. PS5 Pro will see some enhancements to ray tracing, however. https://t.co/6cLRGh6PoK",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T03:00:04.371297124Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2csrrhila2p",
       "text": "What's the hidden truth behind the New Dawn update?",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T06:01:01.303503878Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n26cm6qtni2t",
-      "text": "The hero shooter's former Game Director Jeff Kaplan dishes on Blizzard's decision to announce Overwatch 2 alongside Diablo 4 back in 2019",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T06:00:14Z",
       "platform": "Bluesky"
     }
   ]
