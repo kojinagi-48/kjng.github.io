@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-15T18:52:47.006284+00:00",
+  "updated": "2026-11-15T20:47:49.088792+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2eshypfhb2e",
+      "text": "Daggerheart: Hope & Fear is a quality expansion that fills some of the gaps that the system was missing in the core book but also manages to deliver a couple of really exciting new things to play around with. \n\nOur review: https://bit.ly/4jjHbGM",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-15T20:00:12.07045978Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2elzur6qg2z",
       "text": "🎨 Game Informer Reader Art Spotlight: Ninja Gaiden 4 artwork by Patrick Pham\n\nWant your artwork featured on our social media or in our magazine? If so, submit your art to our Reader Art contest at readerart@gameinformer.com. Entries become the property of Game Informer.",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-13T14:00:07+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n274udzg6n2j",
-      "text": "Some minor new features and a fun little mode that'll keep us entertained over the coming year, but it's more of a budding shoot right now than a full-bloom upgrade. Our Pikmin 4 NS2 Edition review: (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-13T13:50:03+00:00",
       "platform": "Bluesky"
     }
   ]
