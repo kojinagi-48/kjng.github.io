@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-16T03:03:29.530658+00:00",
+  "updated": "2026-11-16T05:37:18.108262+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2fqnjd7ic2u",
+      "text": "Jessica Chastain locks in for a country music mystery that unfolds on autopilot in Heartland.\n\nOur review: https://bit.ly/4zKKEEa",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-16T05:00:09.520049422Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2fh5dr6yn2u",
       "text": "Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month",
@@ -527,17 +538,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-14T05:01:01.249072561Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2ao3kvmit2w",
-      "text": "Jessica Chastain locks in for a country music mystery that unfolds on autopilot in Heartland.\n\nOur review: https://bit.ly/4zKKEEa",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-14T04:31:01.02062423Z",
       "platform": "Bluesky"
     },
     {
