@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-17T11:10:35.142009Z",
+  "updated": "2026-11-17T13:18:08.791756Z",
   "article_count": 240,
   "articles": [
+    {
+      "title": "AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year",
+      "url": "https://www.pcgamer.com/hardware/processors/amd-introduces-capacity-aware-scheduling-to-the-linux-kernel-which-sure-is-the-thing-id-do-if-i-were-introducing-zen-6-lp-cores-next-year/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Any way that more efficiently uses cores has the thumbs up from me.",
+      "image": "https://cdn.mos.cms.futurecdn.net/QQoT6dnH3Ysusg7VkJraRk-1920-80.jpg",
+      "published": "2026-11-17T13:12:39Z"
+    },
+    {
+      "title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Another committee for the committee pile.",
+      "image": "https://cdn.mos.cms.futurecdn.net/MzTzZq7AuVhTzmWxrusWDb-1920-80.jpg",
+      "published": "2026-11-17T12:55:30Z"
+    },
+    {
+      "title": "Yoda Could Lend You a Hand, and This Piece of His Original Empire Strikes Back Puppet Makes It Possible",
+      "url": "https://comicbook.com/collectibles/news/yoda-could-lend-you-a-hand-and-this-piece-of-his-original-empire-strikes-back-puppet-makes-it-possible/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "What do you do when your decisions directly result in the formation of the Galactic Empire and the most promising young Jedi becoming the galaxy’s biggest threat? You ship off the a remote swamp planet and train his son to defeat him, of course! Mast",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Screenshot-2026-11-13-144138.jpg?w=1056",
+      "published": "2026-11-17T12:16:00Z"
+    },
+    {
+      "title": "Only 1 Star Wars Actor Has Won an Emmy For Their Franchise Role, And It’s Not Who You Think",
+      "url": "https://comicbook.com/tv-shows/feature/only-1-star-wars-actor-has-won-an-emmy-for-their-franchise-role-and-its-not-who-you-think/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "The highly-decorated Star Wars saga has earned billions of dollars internationally with little left to accomplish as far as awards and prestige. However, within the franchise itself only one performer has won an Emmy — the awards honoring the televis",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/huyang-bts.jpg?w=1056",
+      "published": "2026-11-17T12:07:00Z"
+    },
+    {
+      "title": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Something's gotta give, something's gotta give, something's gotta give.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dZ63uY6YcJey8Wnr6q6664-1920-80.png",
+      "published": "2026-11-17T11:56:46Z"
+    },
+    {
+      "title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "Investigation into Megaspeed first started in 2024.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VAj3qnWofFrZFQiBmdTyWd-1920-80.jpg",
+      "published": "2026-11-17T11:50:33Z"
+    },
+    {
+      "title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "There's always room for a bit more polish.",
+      "image": "https://cdn.mos.cms.futurecdn.net/cgsfct7LsSe3YLSHsKbAJF-1920-80.jpg",
+      "published": "2026-11-17T11:47:29Z"
+    },
+    {
+      "title": "Xbox Game Pass Is Losing 8 More Games In November",
+      "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-november/",
+      "source": "GameSpot",
+      "category": "Games",
+      "summary": "Don't get too comfortable with your Xbox Game Pass library, because you never know which game will be removed from it next. This month, several more games are on their way out on November 30, so say goodbye to deadly xenomorphs, even deadlier house s",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Aliens-Dark-Descent.jpg?w=300",
+      "published": "2026-11-17T11:40:28Z"
+    },
+    {
+      "title": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "\"I'll try to maintain this at least until Valve releases official tracking support for the Steam Controller.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/8WGv9Ya9efi6zrCWFJxEy7-1920-80.jpg",
+      "published": "2026-11-17T11:30:45Z"
+    },
+    {
+      "title": "3 Fantasy Movies That Were Too Ambitious For Their Own Good (& Suffered For It)",
+      "url": "https://comicbook.com/movies/list/3-fantasy-movies-that-were-too-ambitious-for-their-own-good-suffered-for-it/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Humans have been telling fantasy stories since long before movies even existed, but the big screen has given us a platform to do so better than ever. Many of the best fantasy movies have indelibly imprinted themselves on our collective pop culture co",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/king-arthur-legend-of-the-sword-charlie-hunnam.jpg?w=1056",
+      "published": "2026-11-17T11:25:00Z"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time Remake Is Already Running Rampant on PC — but Can Nintendo Do Anything About It?",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "The Legend of Zelda: Ocarina of Time remake is running rampant on PC, but can Nintendo actually do anything about it? We asked legal experts to find out.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/17/thelegendofzeldaocarinaoftime-48-1794914142571.jpg",
+      "published": "2026-11-17T11:23:51Z"
+    },
     {
       "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
@@ -22,6 +121,15 @@
       "image_source": "Anime News Network"
     },
     {
+      "title": "40 Years Ago, Tom Cruise Starred in a Sequel That Predicted Hollywood’s Obsession With Legacy Sequels",
+      "url": "https://comicbook.com/movies/feature/40-years-ago-tom-cruise-starred-in-a-sequel-that-predicted-hollywoods-obsession-with-legacy-sequels/",
+      "source": "ComicBook.com",
+      "category": "Film",
+      "summary": "It may be wild for modern audiences to believe, but before the current prominence of the legacy sequel, Hollywood used to just move past certain movie franchises if too many years had gone by without significant movement on a sequel. While the world ",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Tom-Cruise-in-The-Color-of-Money.jpg?w=1056",
+      "published": "2026-11-17T10:53:00Z"
+    },
+    {
       "title": "Mistress Kanan Is Devilishly Easy Season 2 Anime Reveals Visual, Trailer, Additional Cast",
       "url": "https://animecorner.me/mistress-kanan-is-devilishly-easy-season-2-anime-reveals-visual-trailer-additional-cast/",
       "source": "Anime Corner",
@@ -29,6 +137,15 @@
       "summary": "The previously announced Mistress Kanan Is Devilishly Easy Season 2, now titled Mistress Kanan…",
       "image": "",
       "published": "2026-11-17T10:50:25Z"
+    },
+    {
+      "title": "Sony Squeezes in Last-Minute PS5 Firmware Security Update Ahead of GTA 6 Release Date, Amid Fresh Hacker Claim",
+      "url": "https://www.ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "Sony has released a new PS5 firmware security update just a day before the release of GTA 6, and hot on the heels of a new claim from a prominent hacker around the console.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/17/vintage-vice-city-pack-exclusive-looks-05-1794910948115.jpg",
+      "published": "2026-11-17T10:26:26Z"
     },
     {
       "title": "GTA 6 Has Teamed Up With The Weather Channel To Show How Dynamic Leonida Can Be",
@@ -2066,124 +2183,6 @@
       "summary": "EA has added a \"don't delete\" pop-up message to Madden NFL 27, and players can't help but feel the company is begging them not to make room for Grand Theft Auto 6.",
       "image": "https://assets-prd.ignimgs.com/2026/11/15/madden-nfl-27-1794762344457.png",
       "published": "2026-11-15T17:22:20Z"
-    },
-    {
-      "title": "Chris Evans’ Forgotten Superhero Movie Is an Underrated Gem, And Predates the MCU’s Captain America",
-      "url": "https://comicbook.com/movies/feature/chris-evans-forgotten-superhero-movie-is-an-underrated-gem-and-predates-the-mcus-captain-america/",
-      "source": "ComicBook.com",
-      "category": "Film",
-      "summary": "Image Courtesy of Summit Entertainment Chris Evans has been in a lot of superhero movies over his career, and even more comic book adaptations. While almost everyone knows him as Captain America in the Marvel Cinematic Universe (MCU), that is because",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/Chris-Evans-in-Push.jpg?w=1056",
-      "published": "2026-11-15T17:18:00Z"
-    },
-    {
-      "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
-      "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
-      "source": "PC Gamer",
-      "category": "Games",
-      "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZL99unBNACpzEBF2YsvoM6-1920-80.png",
-      "published": "2026-11-15T17:00:00Z"
-    },
-    {
-      "title": "Hollow Knight: Silksong’s DLC Wait Might Be a Long One, But Not As Long as 4 Other Infamous Expansions",
-      "url": "https://comicbook.com/gaming/news/hollow-knight-silksongs-dlc-wait-might-be-a-long-one-but-not-as-long-as-4-other-infamous-expansions/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Courtesy of Team Cherry The Sea of Sorrow expansion for Hollow Knight: Silksong was intended to release back in August of this year, but a few months later, the DLC has still not arrived for the celebrated Metroidvania. This heavily reflects the rele",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/Hollow-Knight-Silksong.jpg?w=1056",
-      "published": "2026-11-15T17:00:00Z"
-    },
-    {
-      "title": "5 Marvel Heroes Who Got Costume Redesigns They Definitely Didn’t Need",
-      "url": "https://comicbook.com/comics/list/5-marvel-heroes-who-got-costume-redesigns-they-definitely-didnt-need/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image Courtesy of Marvel Comics Superheroes live and die based on their designs. Iconic, bombastic costumes that call upon modern fashion trends and classic circus outfits create a unique look that has cemented countless heroes in the mind’s eye. Bel",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Daredevil-Black-Armor.jpg?w=1056",
-      "published": "2026-11-15T16:57:00Z"
-    },
-    {
-      "title": "Crunchyroll Is Now Streaming One of Fall 2026’s Big Missing Hits",
-      "url": "https://comicbook.com/anime/news/crunchyroll-is-now-streaming-one-of-fall-2026s-big-missing-hits/",
-      "source": "ComicBook.com",
-      "category": "Anime",
-      "summary": "Image Courtesy of KONAMI Animation / Crunchyroll One of the biggest missing hits from the Fall 2026 anime schedule has now made its way to Crunchyroll as it gears up for its second phase. This Fall has been a particularly busy one with all sorts of m",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Suikoden-The-Anime-Fall-2026-Crunchyroll-Logo.jpg?w=1056",
-      "published": "2026-11-15T16:49:09Z"
-    },
-    {
-      "title": "Avatar: Seven Havens Confirms Season 3 Is Releasing Sooner Than You Think",
-      "url": "https://comicbook.com/anime/news/avatar-seven-havens-confirms-season-3-is-releasing-sooner-than-you-think/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Saheli Khan as Pavi in Avatar: Seven Havens, episode 1, season 1, streaming on Paramount+, 2026. Photo credit: Paramount+ Avatar: Seven Havens is already in the works on Season 3 of the animated series even as fans wait for Season 2, and that’s becau",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Pavi-Avatar-Seven-Havens.jpg?w=1056",
-      "published": "2026-11-15T16:10:04Z"
-    },
-    {
-      "title": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
-      "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
-      "source": "PC Gamer",
-      "category": "Games",
-      "summary": "I won't miss.",
-      "image": "https://cdn.mos.cms.futurecdn.net/u8CE4nwC7yPfoUuGx45ytR-1920-80.png",
-      "published": "2026-11-15T16:00:00Z"
-    },
-    {
-      "title": "Ocarina of Time Remake’s First Mods Are Already Here, & One Adds Co-Op Multiplayer",
-      "url": "https://comicbook.com/gaming/feature/ocarina-of-time-remakes-first-mods-are-already-here-one-adds-co-op-multiplayer/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Courtesy of Nintendo The recent release of The Legend of Zelda: Ocarina of Time remake has been wildly successful, with the game garnering extremely positive reviews from nostalgic fans and completely new audiences. As such, the game has already gott",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/Zelda-Ocarina-of-Time-Link-Sheik.jpg?w=1056",
-      "published": "2026-11-15T16:00:00Z"
-    },
-    {
-      "title": "4 Great Movies That Break the Rules of the Hero’s Journey & Are Even Better For It",
-      "url": "https://comicbook.com/movies/list/4-great-movies-that-break-the-rules-of-the-heros-journey-are-even-better-for-it/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Think of a great movie, and maybe the first one that comes to mind follows a story where the main character starts out not really knowing what to do, faces a series of challenges, learns a few lessons along the way, and ends up in a better place than",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/the-big-lebowski-jeff-bridges.jpg?w=1056",
-      "published": "2026-11-15T15:47:00Z"
-    },
-    {
-      "title": "Major Shonen Jump Series Officially Ends After 5 Years With Final Release",
-      "url": "https://comicbook.com/anime/feature/major-shonen-jump-series-officially-ends-after-5-years-with-final-release/",
-      "source": "ComicBook.com",
-      "category": "Manga",
-      "summary": "Image Courtesy of Shueisha Another major long running series from Shueisha’s Weekly Shonen Jump magazine has now come to an end with the release of its final chapter after five years. The last couple of years have seen many of the longer running seri",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Witch-Watch-Shonen-Jump-Manga-Logo.jpg?w=1056",
-      "published": "2026-11-15T15:38:53Z"
-    },
-    {
-      "title": "Demon Slayer Gets a Major Future Update For the Next 100 Years (But There’s a Catch)",
-      "url": "https://comicbook.com/anime/news/demon-slayer-gets-a-major-future-update-for-the-next-100-years-but-theres-a-catch/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image Courtesy of Ufotable Aniplex and Sony Entertainment have major plans to keep Demon Slayer relevant for the next 100 years, but there’s a huge problem with this plan that can’t be ignored. Written and illustrated by Koyoharu Gotouge, the manga b",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Demon-Slayer-Tanjiro-Infinity-Castle.jpg?w=1056",
-      "published": "2026-11-15T15:18:00Z"
-    },
-    {
-      "title": "Xbox at 25: My Memories From Across Xbox’s Entire (and Quite Incredible) History",
-      "url": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
-      "source": "IGN",
-      "category": "Games",
-      "summary": "I’ve been lucky enough to have a front-row seat for most of the Xbox’s 25 years, covering the high highs and low lows of Microsoft’s pivot into the living room. It’s been quite a ride since November 15, 2001, and I wanted to mark the occasion by shar",
-      "image": "https://assets-prd.ignimgs.com/2026/11/12/xbox-25-blogroll-1794443667177.jpg",
-      "published": "2026-11-15T15:15:00Z"
-    },
-    {
-      "title": "Witch Watch Manga Ends With Anime Season 2 to Air in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-15/witch-watch-manga-ends-with-anime-season-2-to-air-in-2027/.243834",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "summary": "Kenta Shinohara's Witch Watch manga ended in this year's 51st issue of Shueisha's Weekly Shonen Jump magazine on Monday. The staff of the television anime...",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/243834/2-v003c-857x1200.jpg",
-      "published": "2026-11-15T15:12:39Z",
-      "image_source": "Anime News Network"
     }
   ]
 }
