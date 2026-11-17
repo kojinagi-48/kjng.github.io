@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-17T02:56:01.489578+00:00",
+  "updated": "2026-11-17T05:05:58.431403+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2i7gyu36e2q",
+      "text": "Ahead of The Game Awards Game of the Year nominees, creatives behind Resident Evil, Control, Star Wars, and more dig into the craft",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-17T04:30:16Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2i6njbfxy22",
+      "text": "A collector has discovered and authenticated what's believed to be the only surviving, playable copy of PokéPark Fishing Rally, a temporary fishing minigame that was only available to play via wireless download at PokéPark in Japan in 2005. https://bit.ly/4t40QxH",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-17T04:16:01.318345434Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2i2hfnoyp2q",
+      "text": "Werwulf director Robert Eggers revealed to IGN that Robert Pattinson was watching his upcoming horror movie when the news of his casting as the next James Bond was announced today. https://bit.ly/48iKjg2",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-17T03:01:01.241666397Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2hzbwydn32k",
       "text": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today",
@@ -783,17 +816,6 @@
       "platform": "Bluesky"
     },
     {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2dxnnjs7p2u",
-      "text": "A collector has discovered and authenticated what's believed to be the only surviving, playable copy of PokéPark Fishing Rally, a temporary fishing minigame that was only available to play via wireless download at PokéPark in Japan in 2005. bit.ly/4iRPND5",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-15T12:00:10Z",
-      "platform": "Bluesky"
-    },
-    {
       "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3n2duu7p5kc2j",
       "text": "PlayStation’s Black Friday Deals start Nov 16. \n\nDiscover what’s on offer: play.st/4zs3OxV",
       "author": "PlayStation",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-15T03:00:04.371297124Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2csrrhila2p",
-      "text": "What's the hidden truth behind the New Dawn update?",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-15T01:00:20Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2cou43dvg24",
-      "text": "Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-14T23:50:02+00:00",
       "platform": "Bluesky"
     }
   ]
