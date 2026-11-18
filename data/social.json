@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-18T21:01:43.806086+00:00",
+  "updated": "2026-11-18T22:58:45.616924+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2mnei3dnk2m",
+      "text": "Lego Batman: Legacy Of The Dark Knight Update Adds GameShare Support (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-18T22:50:01+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2mm2evlsz27",
+      "text": "GTA 6 takes an average of 73 hours to beat the game:",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-18T22:26:30.492153125Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2mhaq7qly2k",
       "text": "GTA 6 will be locked at 30 FPS on current consoles and won't get a future performance mode, even on PS5 Pro.",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-17T20:00:36Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2jrrpa7ef2n",
-      "text": "Sony has fought off a legal challenge over the pricing of PlayStation games that argued the company charged \"excessive and unfair prices.\" https://bit.ly/4jnmLwI",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-17T19:31:02.628052408Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2jq42iihv2q",
-      "text": "Ahead of GTA 6's release, GTA 5 fans are reflecting on their 13 years of history with the beloved open-world crime game. https://bit.ly/3VtPg2I",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-17T19:01:02.494293726Z",
       "platform": "Bluesky"
     }
   ]
