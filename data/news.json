@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-18T07:26:37.389155Z",
+  "updated": "2026-11-18T09:12:38.586321Z",
   "article_count": 240,
   "articles": [
+    {
+      "title": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
+      "url": "https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "Sony has confirmed that the recently released PS5 firmware 14.23 update is required before playing GTA 6, in a social media post boosted by Rockstar Games.",
+      "image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg",
+      "published": "2026-11-18T07:33:45Z"
+    },
+    {
+      "title": "Identity V Game's Oha Suta Daigo Gakuen Short Anime Unveils More Cast, Staff, November 24 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-18/identity-v-game-oha-suta-daigo-gakuen-short-anime-unveils-more-cast-staff-november-24-debut/.243933",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "summary": "Takehito Koyasu, Nobunaga Shimazaki, Yūichirō Umehara, Makoto Furukawa co-star",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/news.10/243933/daigo.jpg",
+      "published": "2026-11-18T07:20:06Z",
+      "image_source": "Anime News Network"
+    },
     {
       "title": "Doomsday Film Rating Warning Makes It the Most Violent Avengers Movie Yet",
       "url": "https://comicbook.com/movies/news/doomsday-film-rating-warning-makes-it-the-most-violent-avengers-movie-yet/",
@@ -2169,24 +2188,6 @@
       "summary": "The director of Star Wars: Fate of the Old Republic has shared a promising new update about the game’s release and ongoing development. At this point, it has been nearly one year since Fate of the Old Republic was announced. Although many details abo",
       "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/Star-Wars-Fate-of-the-Old-Republic.jpg?w=1056",
       "published": "2026-11-16T18:21:28Z"
-    },
-    {
-      "title": "Doctor Who Tried to Launch a Spinoff Around Its Most Unexpected Character (& It Only Lasted One Episode)",
-      "url": "https://comicbook.com/tv-shows/feature/doctor-who-tried-to-launch-a-spinoff-around-its-most-unexpected-character-it-only-lasted-one-episode/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "K-9 was already one of the strangest things to come out of Doctor Who. A robotic dog with a laser built into his nose sounds like something a particularly enthusiastic toy manufacturer would dream up, but audiences loved him. So naturally, the BBC ev",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/doctor-who-spinoff.jpg?w=1056",
-      "published": "2026-11-16T18:13:00Z"
-    },
-    {
-      "title": "I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod/",
-      "source": "PC Gamer",
-      "category": "Games",
-      "summary": "We've all been there.",
-      "image": "https://cdn.mos.cms.futurecdn.net/3HggBdvNQdSaiakWJJESm9-1920-80.jpg",
-      "published": "2026-11-16T18:00:00Z"
     }
   ]
 }
