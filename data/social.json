@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-19T07:27:34.642890+00:00",
+  "updated": "2026-11-19T09:14:34.166014+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2nphlch3d2w",
+      "text": "Clair Obscur: Expedition 33’s lead writer has left Sandfall to help other game developers think about story from the outset. bit.ly/3XAwebt",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-19T09:00:14Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2njlj5zrf2w",
       "text": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-18T01:25:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2kfbsrerm2u",
-      "text": "Sonic Racing: CrossWorlds Free McLaren Racing Update Adds New Sonic Skin And Machine",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-18T01:20:02+00:00",
       "platform": "Bluesky"
     }
   ]
