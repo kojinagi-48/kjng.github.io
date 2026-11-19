@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-19T21:00:01.074935+00:00",
+  "updated": "2026-11-19T22:56:36.212737+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2p2cpialp2u",
+      "text": "GTA 6 has, perhaps unsurprisingly, become the most popular game on Twitch and Kick in the history of both platforms within just the first 26 hours of its global release. https://bit.ly/4eLNAYQ",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-19T21:47:01.941908693Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2ozg3uppl2p",
+      "text": "After playing GTA 6 all day yesterday on everything from the Xbox Series S up to the PS5 Pro, our tech specialist is forming a clearer picture on what a PC version of the game should look like. https://bit.ly/4AKGY5C",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-19T21:31:01.853839566Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2ow2shgtn2n",
       "text": "Prime Minister Narendra Modi has joined the GTA 6 launch hype with a viral meme highlighting how far India has levelled up since GTA 5 came out in 2013. https://bit.ly/48qlXB9",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-18T14:31:02.063212084Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:3nfshkzomgboapasu6amkhui/post/3n2lr3egll22d",
-      "text": "Find a new adventure today with PlayStation Store’s Black Friday Deals. \n\nplay.st/4iYtXxP",
-      "author": "PlayStation",
-      "handle": "playstation.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nfshkzomgboapasu6amkhui/bafkreic6hd57x7uoxrzsjku76stwatskovjznvevuq4n4rdzmkd7se25n4",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-11-18T14:23:52.594Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2lqnekaar2e",
-      "text": "We have GTA 6 completion times from four different people so you can see what to expect for your play style! https://bit.ly/4fDbCFE",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-18T14:16:02.938408035Z",
       "platform": "Bluesky"
     }
   ]
