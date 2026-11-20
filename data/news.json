@@ -1,7 +1,110 @@
 {
-  "updated": "2026-11-20T09:12:04.098814Z",
+  "updated": "2026-11-20T11:11:30.888279Z",
   "article_count": 240,
   "articles": [
+    {
+      "title": "PC gamers notice Nvidia's drivers hammering their SSDs with tens of GB/hr of unnecessary writes – revert to 621.01 ASAP",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "There is a registry fix, but it's surprising to see the driver package still available to download.",
+      "image": "https://cdn.mos.cms.futurecdn.net/rhWu44sDqYPTAiiJjUGKsE-1920-80.jpg",
+      "published": "2026-11-20T11:05:10Z"
+    },
+    {
+      "title": "'A Pen, Handcuffs, and a Common-Law Marriage' TV Anime Reveals Theme Song Artists, More Cast, January 9 Debut in Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-20/a-pen-handcuffs-and-a-common-law-marriage-tv-anime-reveals-theme-song-artists-more-cast-january-9-/.244022",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "summary": "Inori Minase performs opening theme song, saeco performs ending theme song",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/youtube/pLuS4_5FziQ.jpg",
+      "published": "2026-11-20T11:00:02Z",
+      "image_source": "Anime News Network"
+    },
+    {
+      "title": "5 Justice League Unlimited Villains I’m Still Waiting to See on the Big Screen in the DCU",
+      "url": "https://comicbook.com/tv-shows/feature/5-justice-league-unlimited-villains-im-still-waiting-to-see-on-the-big-screen-in-the-dcu/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Following the change in leadership, priorities for the DCU and future projects have shifted. David Ellison has expressed an interest in a fast-tracked Justice League, wanting Wonder Woman, Batman, and Aquaman on screens again as soon as possible. Fan",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/legion-of-doom-1.jpg?w=1056",
+      "published": "2026-11-20T10:38:00Z"
+    },
+    {
+      "title": "Modders reckon GTA 6 will be playable on PC within a week",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/modders-reckon-gta-6-will-be-playable-on-pc-within-a-week/",
+      "source": "PC Gamer",
+      "category": "Games",
+      "summary": "That's if Rockstar can't take it down first.",
+      "image": "https://cdn.mos.cms.futurecdn.net/uFTYVTAcEQq9dzQ7KuHtnf-1920-80.jpg",
+      "published": "2026-11-20T10:33:56Z"
+    },
+    {
+      "title": "Cyberleek Returns for GTA 6 Launch to Reportedly Release a Near-Complete Xbox Build, Threatens to Release the Game's Executable in Days",
+      "url": "https://www.ign.com/articles/cyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "Cyberleek has returned for the launch of GTA 6 to allegedly release a near complete Xbox build of the game — and has threatened to release its executable in just days.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg",
+      "published": "2026-11-20T10:11:04Z"
+    },
+    {
+      "title": "Kengo Matsumoto's >Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Manga Gets TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-20/kengo-matsumoto-jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-manga-gets-tv-anime/.244020",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "summary": "Gekkō animates misunderstanding romcom debuting next year",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL3/cms/news.10/244020/ijihaji-tv.jpg",
+      "published": "2026-11-20T10:07:10Z",
+      "image_source": "Anime News Network"
+    },
+    {
+      "title": "One of the Best Lord of the Rings Board Games Has Dropped to Its Lowest Price Ever at Amazon",
+      "url": "https://www.ign.com/articles/one-of-the-best-lord-of-the-rings-board-games-has-dropped-to-its-lowest-price-ever-at-amazon-black-friday-2026",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "With the holidays approaching, with parties and moments spent with friends and family, now is the perfect time to snag one of the best Lord of the Rings board game s out there, The Lord of the Rings: Fate of the Fellowship, which is on sale for $59.9",
+      "image": "https://assets-prd.ignimgs.com/2025/08/25/fateofthefellowship-review-thumb-1756085605830.jpg",
+      "published": "2026-11-20T10:00:00Z"
+    },
+    {
+      "title": "Tim Burton’s Batman Plans Included a Radical Idea for Robin, And Toys Were Made Before It Was Scrapped",
+      "url": "https://comicbook.com/movies/feature/tim-burtons-batman-plans-included-a-radical-idea-for-robin-and-toys-were-made-before-it-was-scrapped/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "When Michael Keaton was cast as Batman in Tim Burton’s 1989 film, everybody was shocked by the choice. Years later, many continue to say how great his performance was and place him high among the best actors to wear the cowl. Controversial casting ch",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/winston-drake-robin-batman-89.jpg?w=1056",
+      "published": "2026-11-20T09:55:00Z"
+    },
+    {
+      "title": "Rock Paper Landmine Novel Gets Stage Play in January",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-20/rock-paper-landmine-novel-gets-stage-play-in-january/.244017",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "summary": "Yugo Aosaki's novel has live-action series adaptation that debuted on Prime Video worldwide on November 13",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.10/244017/landmine-stage-kv.jpg",
+      "published": "2026-11-20T09:16:57Z",
+      "image_source": "Anime News Network"
+    },
+    {
+      "title": "5 Sci-Fi Movies That Were Too Ambitious For Their Own Good, Including Multiple Directors’ Pet Projects",
+      "url": "https://comicbook.com/movies/list/5-sci-fi-movies-that-were-too-ambitious-for-their-own-good-including-multiple-directors-pet-projects/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "The science fiction genre is one of the most consistently successful and popular in modern cinema, and each passing year offers exciting new releases. It’s no secret that sci-fi sells, as some of the most iconic movie franchises are those that incorp",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/jude-law-sky-captain.jpg?w=1056",
+      "published": "2026-11-20T09:13:00Z"
+    },
+    {
+      "title": "Mercedes and the Waning Moon TV Anime Reveals More Cast, January 10 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-20/mercedes-and-the-waning-moon-tv-anime-reveals-more-cast-january-10-debut/.244014",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "summary": "Show Hayami, Miyu Tomita, more join cast; new visual also revealed",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD3/cms/news.10/244014/mercedes-main-visual-2.jpg",
+      "published": "2026-11-20T09:03:14Z",
+      "image_source": "Anime News Network"
+    },
     {
       "title": "2027 Doraemon Film Reveals Guest Cast",
       "url": "https://www.animenewsnetwork.com/news/2026-11-20/2027-doraemon-film-reveals-guest-cast/.244019",
@@ -21,6 +124,15 @@
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIP/cms/news.10/244018/votoms-film-2-visual.jpg",
       "published": "2026-11-20T08:34:46Z",
       "image_source": "Anime News Network"
+    },
+    {
+      "title": "Amazon Drops Lightning Deals on Some of the Best Modern Board Games for Black Friday",
+      "url": "https://www.ign.com/articles/amazon-black-friday-board-game-deals-2026",
+      "source": "IGN",
+      "category": "Games",
+      "summary": "You can never have too many board games. With video games and TV dominating our attention on a daily basis, there's nothing better than sitting down and having a physical experience with your family and friends. A good game of Monopoly or Scrabble is",
+      "image": "https://assets-prd.ignimgs.com/2023/01/24/heat-pedal-to-the-metal-board-game-1674586517410.png",
+      "published": "2026-11-20T08:34:17Z"
     },
     {
       "title": "4 Years Ago, Star Wars TV’s Best Series Delivered an Action Scene That Rivaled the Movies",
@@ -2081,115 +2193,6 @@
       "summary": "Atomic Pixel Party, an event organizer focused on anime and geek culture themed parties,…",
       "image": "",
       "published": "2026-11-18T21:50:22Z"
-    },
-    {
-      "title": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/befuddled-japanese-player-fights-gta-6-controls-loses-becomes-guy-chugging-two-shakes-i-accidentally-bought-while-walking-around-in-a-squat/",
-      "source": "PC Gamer",
-      "category": "Games",
-      "summary": "No matter how much money you spend, players will find a way to make your game look doofy.",
-      "image": "https://cdn.mos.cms.futurecdn.net/AY5PhkhnJoMBscu6wdLmKF-1920-80.jpg",
-      "published": "2026-11-18T21:48:24Z"
-    },
-    {
-      "title": "GTA 6 Removes a Major GTA 5 Feature, But the Reasoning Makes Sense",
-      "url": "https://comicbook.com/gaming/news/gta-6-removes-a-major-gta-5-feature-but-the-reasoning-makes-sense/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Courtesy of Rockstar Games Grand Theft Auto 6 has made a significant change to one of Rockstar Games’ familiar features, as players cannot revisit completed story missions through a dedicated in-game replay menu. The feature has been a regular part o",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/08/GTA-6-Jason-Lucia-1.jpg?w=1056",
-      "published": "2026-11-18T21:44:32Z"
-    },
-    {
-      "title": "PS5 Users Can’t Believe PSN Is Struggling Before GTA 6 Launch: “Sony’s Servers Called Out Sick Too”",
-      "url": "https://comicbook.com/gaming/news/ps5-users-cant-believe-psn-is-struggling-before-gta-6-launch-sonys-servers-called-out-sick-too/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "PS5 users across the internet have been left baffled and frustrated that the PlayStation Network has been experiencing issues just before the release of Grand Theft Auto 6. With the U.S. and European releases of GTA 6 now less than 12 hours away, man",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/06/g-t-a-6.png?w=1056",
-      "published": "2026-11-18T21:42:12Z"
-    },
-    {
-      "title": "Robert Downey Jr. Breaks Down His MCU Return in New Avengers: Doomsday Video, And Why He’s Back",
-      "url": "https://comicbook.com/movies/news/robert-downey-jr-breaks-down-his-mcu-return-in-new-avengers-doomsday-video-and-why-hes-back/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image courtesy of Marvel Among the biggest shockers about Avengers: Doomsday was the news that Robert Downey Jr. would be returning to the MCU, and now, we are finally hearing more from Downey himself about why he’s making this return, just one month",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/tony-stark-endgame-time-travel.jpg?w=1056",
-      "published": "2026-11-18T21:35:08Z"
-    },
-    {
-      "title": "WoW: Forever is huge: Players have created over 15 million characters so far",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/",
-      "source": "PC Gamer",
-      "category": "Games",
-      "summary": "Blizzard has called it \"the biggest launch in WoW history by peak concurrent players.\"",
-      "image": "https://cdn.mos.cms.futurecdn.net/XZ5JSePvRqFfQeiXqg8qL7-1920-80.jpg",
-      "published": "2026-11-18T21:34:18Z"
-    },
-    {
-      "title": "Dragon Ball Super Needs to Reveal More of Its Multiverse",
-      "url": "https://comicbook.com/anime/feature/dragon-ball-super-needs-to-reveal-more-of-its-multiverse/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image Courtesy of Toei Animation The entirety of Dragon Ball Super‘s 131 episode, two-movie run discussed only a small portion of its multiverse. The anime focused on Universe 7, which is where the Z Fighters are located, and specifically Universes 6",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Vegeta-and-Jiren.jpg?w=1056",
-      "published": "2026-11-18T21:18:00Z"
-    },
-    {
-      "title": "5 Comic Book Movies That Are Actually Better Than The Comics They’re Based On (1 Was Nominated For 2 Oscars)",
-      "url": "https://comicbook.com/movies/list/5-comic-book-movies-that-are-actually-better-than-the-comics-theyre-based-on-1-was-nominated-for-2-oscars/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "In modern cinema, many of the biggest and most beloved movies are based on existing source material. No medium has been better represented in recent years’ blockbuster releases than comic books, with countless comic adaptations coming to life on the ",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/jim-carrey-the-mask.jpg?w=1056",
-      "published": "2026-11-18T21:01:00Z"
-    },
-    {
-      "title": "'You're So Sloppy, Hotta-Sensei' Manga Ends in 2 Chapters",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "summary": "Series debuted in March 2022",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK1/cms/news.6/204603/hotta.jpeg",
-      "published": "2026-11-18T21:00:00Z",
-      "image_source": "Anime News Network"
-    },
-    {
-      "title": "A GTA 6 Location Was Teased by Rockstar All the Way Back in 2021 — And What's Inside Was Worth the Wait",
-      "url": "https://www.ign.com/articles/a-gta-6-location-was-teased-by-rockstar-all-the-way-back-in-2021-and-whats-inside-was-worth-the-wait",
-      "source": "IGN",
-      "category": "Games",
-      "summary": "In 2021, Rockstar fans believed that a GTA 6 screenshot was snuck into the GTA trilogy collection, but there's more to this theory than meets the eye.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/18/gta-6-jason-house-1795034681860.jpg",
-      "published": "2026-11-18T20:56:31Z"
-    },
-    {
-      "title": "PSN Went Down Sorta On GTA 6 Eve",
-      "url": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/",
-      "source": "GameSpot",
-      "category": "Games",
-      "summary": "On the eve of GTA 6' s official launch on November 19, Sony's PlayStation Network appears to be facing some issues, at least for some people, at some point, today. Reports have emerged that the PSN is borked, and although the PlayStation Status websi",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261031155532_.jpg?w=300",
-      "published": "2026-11-18T20:55:37Z"
-    },
-    {
-      "title": "Marvel Just Reimagined Doctor Octopus in the Most Disturbing Way Possible",
-      "url": "https://comicbook.com/comics/feature/marvel-just-reimagined-doctor-octopus-in-the-most-disturbing-way-possible/",
-      "source": "ComicBook.com",
-      "category": "Comics",
-      "summary": "Image Courtesy of Marvel Comics Doctor Octopus is rightfully recognized as one of Spider-Man’s most powerful, intelligent, and iconic villains. Now that Marvel Comics has introduced the horror-themed Midnight Universe, it has begun to craft the most ",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Midnight-Doctor-Octopus-Felicia-Hardy-Marvel-Comics.png?w=1056",
-      "published": "2026-11-18T20:48:00Z"
-    },
-    {
-      "title": "Disney’s Hexed Team Reveal How Film’s Witch School Is Totally Different From Wicked, Harry Potter [EXCLUSIVE]",
-      "url": "https://comicbook.com/movies/news/disneys-hexed-team-reveal-how-films-witch-school-is-totally-different-from-wicked-harry-potter-exclusive/",
-      "source": "ComicBook.com",
-      "category": "Film",
-      "summary": "The magical world of Disney is days away from becoming a little more enchanted, as Hexed is set to arrive in theaters on Thanksgiving Eve, Nov. 25, 2026. With an all-star cast that includes Hailee Steinfeld, Jodie Foster, Walton Goggins, Rashida Jone",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/hexed-movie.jpg?w=1056",
-      "published": "2026-11-18T20:43:57Z"
     }
   ]
 }
