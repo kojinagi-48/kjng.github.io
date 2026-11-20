@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-20T07:28:12.883991+00:00",
+  "updated": "2026-11-20T09:12:44.886518+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2q4l75qh527",
+      "text": "Netflix’s The Altruists simplifies the rise and crash-out of crypto exchange FTX by putting the focus on the two people behind the fraud: Sam Bankman-Fried and Caroline Ellison.\n\nOur review: bit.ly/3UZZTKv",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-20T08:00:13Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2q2vgu2yo2b",
+      "text": "Fans wary of Zack Snyder's Escape From New York remake can rest easy knowing that original director John Carpenter is involved, as Carpenter \"demanded\" to be allowed to remake his iconic score. bit.ly/4kVcokY",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-20T07:30:10Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2pxkl6l7z2q",
       "text": "A physical game joins NFT jokes as relics of the past included in GTA 6",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-19T01:00:18Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2msxs7i5r2f",
-      "text": "8BitDo is releasing a new wireless gamepad for the Switch 2 and PC modeled after the GameCube controller.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-19T00:30:20Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2mqprtdgv2e",
-      "text": "8BitDo Reveals Its Own GameCube Controller For Switch 2 (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-18T23:50:02+00:00",
       "platform": "Bluesky"
     }
   ]
