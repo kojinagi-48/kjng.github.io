@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-20T17:05:41.870707+00:00",
+  "updated": "2026-11-20T19:08:11.177287+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2rbitn2zy2q",
+      "text": "Echograph is a retro-3D survival horror game that's equal parts Resident Evil and Pokémon Snap. \n\nOur hands-on preview impressions: https://bit.ly/4j4a2O6",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-20T19:01:03.287587946Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2r4htypha22",
+      "text": "Paul Thomas Anderson and Benny Safdie bring an intimate concert to the big screen with Cameron Winter at Carnegie Hall.\n\nOur review: https://bit.ly/3XDUTfh",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-20T17:31:01.407917817Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2r4gp47d22f",
+      "text": "How Midsommar tracks and a PG-13 rating shaped Sunrise on the Reaping, the Hunger Games prequel that fully leans into horror.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-20T17:30:22Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3n2r2yj2m4c2p",
       "text": "Here is a remarkable stat: Rockstar told me that 21% of their employees, or around 1,000 people, have been at the company for 10+ years. As game companies everywhere lay off tens of thousands of staff, the biggest hit of the year came from a team full of veterans www.bloomberg.com/news/newslet...",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-19T13:16:01.333157572Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2o4xrqnt723",
-      "text": "Lara Croft takes center stage in the latest issue of Game Informer! Our cover story dives into Tomb Raider: Legacy of Atlantis, alongside an extensive look back at the history of one of gaming’s most iconic franchises. Subscribe now ➡️ buff.ly/XhTaXzM",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-19T13:01:56.708Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2o4v25uqr2p",
-      "text": "The RayNeo GT Max Call of Duty®: Modern Warfare 4® Limited Edition lands November 19 at $449 - a 307-inch screen and an interface built for the game. #AD",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-19T13:00:24Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2o3ai4qxz2b",
-      "text": "GTA 6 sold around 20 million copies via preorders before the game's general release, analysts estimate. https://bit.ly/4kl8EsR",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-19T12:31:01.119021451Z",
       "platform": "Bluesky"
     }
   ]
