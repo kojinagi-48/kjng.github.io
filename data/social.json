@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-21T07:17:19.931677+00:00",
+  "updated": "2026-11-21T08:55:59.312077+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2spkasd3y2m",
+      "text": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-21T08:45:01+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2sn25qy7q2p",
+      "text": "Robert Pattinson taking on the James Bond role probably means that The Batman: Part II is his final outing as the Dark Knight.\n\nHere's why Pattinson likely can't (or won't) play both roles going forward: bit.ly/4tfYOuP",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-21T08:00:15Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2sjow5ssm22",
       "text": "Sundance 2026’s most buzzed about film is a stunning drama about an eight-year-old witnessing a violent crime. \n\nOur review of Josephine: bit.ly/4jv3WaQ",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T01:05:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3n2pdwapqas2s",
-      "text": "The best way to think of GTA VI might be as two games in one: a big, cinematic story with high-octane set-pieces and then an exploration-heavy immersive sim that rewards experimentation and discovery. I like the former but it's the latter parts that make this game special",
-      "author": "Jason Schreier",
-      "handle": "jasonschreier.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mkgbhbhqvappkkorf2bzyrp/bafkreib2xnu5b2a3r3qrsva2loml45jiclpbsn7id4wywsimyo5xhjva7m",
-      "label": "ANALYSIS",
-      "language": "en",
-      "published": "2026-11-20T00:39:01.239Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2pdhx4gj42t",
-      "text": "Invincible’s next season flies onto Prime Video on February 17, 2027, and Skybound celebrated with a trailer showing Mark Grayson sitting across from Damien Darkblood at Burger Mart. https://bit.ly/4jqODzZ",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T00:31:01.388346352Z",
       "platform": "Bluesky"
     }
   ]
