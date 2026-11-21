@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-21T16:54:23.187049+00:00",
+  "updated": "2026-11-21T18:56:45.139112+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2tl7lr44s2z",
+      "text": "In honor of the 25th anniversary of Super Smash Bros. Melee, we're taking a look back at every game in the beloved Nintendo series, all collected into an IGN Playlist: bit.ly/4ksxw1M",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-21T17:00:09Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2tjk2falm2q",
       "text": "“I’m very at peace. What will be will be.”\n\nLanterns star Aaron Pierre reprised his role as Green Lantern, John Stewart, in Man of Tomorrow, but now that there's a new regime in charge of DC, his appearance in the upcoming movie may be in question. bit.ly/3WTfGeE",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T05:00:20Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2pqv3ntny2u",
-      "text": "It's been 13 years, but we finally have GTA 6. How are you spending your first day in Leonidas? \n\nAnd if you're not spending time there but still want your GTA fix, check out the IGN Playlist for every Grand Theft Auto game: https://bit.ly/4aboD6S",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T04:31:00.999702449Z",
       "platform": "Bluesky"
     }
   ]
