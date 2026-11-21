@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-21T18:56:45.139112+00:00",
+  "updated": "2026-11-21T20:50:27.970572+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:4nci4ly3xu3nau7hzr373bte/post/3n2tu5tk74q2w",
+      "text": "CONTROL Resonant is in the running for Best Narrative in The Game Awards.\n\nIf that's a story that you can get behind, please give us your vote at thegameawards.com! \n\n#CONTROLResonant",
+      "author": "Remedy Entertainment",
+      "handle": "remedygames.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4nci4ly3xu3nau7hzr373bte/bafkreiaqqpdfnl7kq4oumuv6a5vi262h35j3cy54jbllpgotsuws4imb7i",
+      "label": "OFFICIAL",
+      "language": "en",
+      "published": "2026-11-21T19:40:13.349458536Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2trttntbw2f",
+      "text": "48 hours into the Reader Choice Awards, Grand Theft Auto VI is your top pick for Game of the Year, with The Legend of Zelda: Ocarina of Time just 25 votes behind.\n\nWhat's in your Top 5 for 2026? 👇 \n\nVote now! 🔗 gameinformer.com/ReaderVote2026",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-21T18:58:51.768Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2tl7lr44s2z",
       "text": "In honor of the 25th anniversary of Super Smash Bros. Melee, we're taking a look back at every game in the beloved Nintendo series, all collected into an IGN Playlist: bit.ly/4ksxw1M",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T05:40:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2puaf5dff2g",
-      "text": "The Madden movie never makes football particularly interesting, thus failing to connect viewers to the driving force of its subject’s life.\n\nOur review: https://bit.ly/4jrWCwM",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T05:31:01.275000594Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2psjjbwl42p",
-      "text": "Don’t expect to see any deleted scenes in the epic’s home release",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T05:00:20Z",
       "platform": "Bluesky"
     }
   ]
