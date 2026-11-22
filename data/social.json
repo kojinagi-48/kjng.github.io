@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-22T16:54:39.306818+00:00",
+  "updated": "2026-11-22T18:56:58.664251+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2w7b6pz262p",
+      "text": "🎨 Game Informer Reader Art Spotlight: Artwork by Russel Harmon and Amel Ben Haj.\n\nWant your artwork featured on our social media or in our magazine? If so, submit your art to our Reader Art contest at readerart@gameinformer.com. Entries become the property of Game Informer.",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T18:04:17.700Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2w6zxb3q22q",
+      "text": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator https://bit.ly/4jwXCja",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T18:00:14.980573912Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2w5ebbrgt2k",
+      "text": "The Odyssey's effects team reveals how they built a 36-foot Cyclops puppet and hauled it up a mountain to film inside a cave in Greece.",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T17:30:13Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2vyd7iov42b",
       "text": "GTA 6 has a photo mode included at launch, and it’s fantastic. bit.ly/4zx6OZB",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T14:00:04+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2qozfsoif2p",
-      "text": "Hundreds of choreographed moves, veteran stunt performers, and a little improvisation helped bring the film's climactic scene to life.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T13:30:18Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2qoh3zqot2c",
-      "text": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T13:20:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2qo7utm5427",
-      "text": "According to a spokesperson for the UK Prime Minister Andy Burnham, despite hailing GTA 6 as a British success story, he's simply too busy to sit down and play it. https://bit.ly/4CfSoQ6",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T13:16:01.465987549Z",
       "platform": "Bluesky"
     }
   ]
