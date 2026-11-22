@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-22T20:52:23.783804+00:00",
+  "updated": "2026-11-22T22:52:39.064584+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2wo4f4jcx2t",
+      "text": "ICYMI: Clair Obscur: Expedition 33’s lead writer has left Sandfall to help other game developers think about story from the outset. https://t.co/IvxK8SwQMT",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T22:30:02.746765741Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2wmgufunk2g",
+      "text": "While the PlayStation 5 Pro is arguably the most powerful console on the market today, even it is unable to run GTA 6 at 60fps according to the game's technology production director Marc Chambers. https://t.co/8ewzoRDCZe",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T22:00:06.843487647Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2wkr4mxoo22",
+      "text": "Nintendo's 2026 Black Friday sale is now live and it brings the first-ever official Switch 2 bundle discount and up to 50% off Switch Games https://bit.ly/4A0NTHF",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T21:30:03.525316708Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2whfu4nfu2u",
       "text": "These are IGN's top 10 early Black Friday gaming deal recommendations you should actually consider buying before the big day on November 27. https://bit.ly/4CiYHm3",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T16:01:03.522749985Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2qxfqvbxe2m",
-      "text": "It’s likely the fastest-selling video game in history",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T16:00:22Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2qvrchnqs2n",
-      "text": "GTA 6's full credits have sparked a rumor about a returning character. Are they really in the game?\n\nSpoilers: https://bit.ly/4iRmMZJ",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T15:31:02.373156845Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2qsfyvxvd2w",
-      "text": "The Percy Jackson Season 3 premiere is a promising start to the first adaptation of Rick Riordan's third book. \n\nOur review: https://bit.ly/3XCSIZq",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T14:31:02.031073073Z",
       "platform": "Bluesky"
     }
   ]
