@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-22T14:55:33.700318+00:00",
+  "updated": "2026-11-22T16:54:39.306818+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2vyd7iov42b",
+      "text": "GTA 6 has a photo mode included at launch, and it’s fantastic. bit.ly/4zx6OZB",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T16:00:09Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2vuxvglrw2w",
+      "text": "Check out our IGN Playlist of every Pokemon game, from the very beginning to the upcoming Pokemon Winds and Waves: bit.ly/497GMkT",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-22T15:00:08Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2vrmroq222w",
       "text": "GTA 6 lacks a parody of Disney World partially because developer Rockstar felt there wasn't a strong enough narrative justification for all the work that would have to go into meeting player expectations. bit.ly/4j5ws1k",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T13:16:01.465987549Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2qnf32akx2b",
-      "text": "Amazon's Black Friday sale kicked off on November 19, so these board game deals are new to today: https://bit.ly/48wWVQN",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T13:01:02.007492308Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2qmrhqntk2w",
-      "text": "By the time we had completed Pon’s summer job, we wanted to dive back in and see more of the townsfolk we’d met. But there were a few sequences we were happy to see the back of. Our Tanuki: Pon's Summer review: (Repost)",
-      "author": "Nintendo Life",
-      "handle": "nintendolife.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T12:50:02+00:00",
       "platform": "Bluesky"
     }
   ]
