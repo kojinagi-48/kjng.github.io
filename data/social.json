@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-23T11:15:23.994939+00:00",
+  "updated": "2026-11-23T13:29:41.289230+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2y54633cj24",
+      "text": "Fans are expecting a fresh Avengers: Doomsday trailer today, and now have a good idea of the movie's runtime. https://bit.ly/4j6Up8O",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-23T12:31:01.223835442Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2y2k5ewbj2e",
+      "text": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-23T11:45:07+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2xzqusto32g",
+      "text": "A GTA 6 developer has paid tribute to his late mother with an in-game memorial. https://bit.ly/4AEJ1I8",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-23T11:31:01.194875189Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2xvj4hxlp2x",
       "text": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T21:47:02.634470494Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2riseds2f2x",
-      "text": "Rockstar has confirmed Grand Theft Auto 6 made $3.79 billion in its first 24 hours, making it the highest-grossing launch in entertainment history. gameinformer.com/2026/11/20/g...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T21:11:39.005Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2ri6dne3224",
-      "text": "We really think you should play GTAVI this weekend, and we say as much in our weekend what to play recommendations ... but there are some other recent release options, as well. gameinformer.com/opinion/2026...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T21:00:27.180Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2ri65pdww2f",
-      "text": "Season 4 of 'Yellowjackets' is already shocking fans, and it's only the first episode!",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T21:00:20Z",
       "platform": "Bluesky"
     }
   ]
