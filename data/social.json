@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-23T03:03:57.834682+00:00",
+  "updated": "2026-11-23T05:27:45.675841+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2xca3hpzu22",
+      "text": "Amazon and Target launch their best '3 for 2' sales on books, box sets, and vinyl for Black Friday https://bit.ly/4iXmxfF",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-23T04:30:01.682510355Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2xakizfcg22",
+      "text": "Just a heads up that if you want to listen to GTA 6's radio stations at all times, you'll have to go to a store in-game and buy a pair of headphones. \n\nProbably something you'll want to do asap!",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-23T04:00:03.952333219Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2x57jllfr2p",
       "text": "Gary Larson's comic strip The Far Side was known for its visual humor, but this is the best-ever quote from the series",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T19:46:17.543690664Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2rdpkrd6m22",
-      "text": "Rockstar Games has confirmed GTA 6 sales reached $3.79 billion in its first 24 hours, securing its place as the biggest entertainment launch of all time. https://bit.ly/4CfyYLi",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T19:40:36.357261828Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:4nci4ly3xu3nau7hzr373bte/post/3n2rdovmnas2b",
-      "text": "CONTROL Resonant is in the running for Best Audio Design in The Game Awards.\n\nSounds good? Then give us your vote at thegameawards.com! \n\n#CONTROLResonant",
-      "author": "Remedy Entertainment",
-      "handle": "remedygames.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4nci4ly3xu3nau7hzr373bte/bafkreiaqqpdfnl7kq4oumuv6a5vi262h35j3cy54jbllpgotsuws4imb7i",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-11-20T19:40:12.837685544Z",
       "platform": "Bluesky"
     }
   ]
