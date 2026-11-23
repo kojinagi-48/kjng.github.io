@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-23T09:32:32.395630+00:00",
+  "updated": "2026-11-23T11:15:23.994939+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n2xvj4hxlp2x",
+      "text": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-23T10:15:03+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2xfletsxp2c",
       "text": "The Legend of Zelda: Ocarina of Time remake is running rampant on PC, but can Nintendo actually do anything about it? We asked legal experts to find out. https://t.co/t9TQ8PNG78",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T21:00:20Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2rgjyaq342z",
-      "text": "Players have already found a way to play GTA 6 in first person mode, despite the game shipping without the feature fully supported.\n\nHere's how you can try it: https://bit.ly/4jtvOw7",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T20:31:10.391619482Z",
       "platform": "Bluesky"
     }
   ]
