@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-23T05:27:45.675841+00:00",
+  "updated": "2026-11-23T07:44:03.604776+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2xfletsxp2c",
+      "text": "The Legend of Zelda: Ocarina of Time remake is running rampant on PC, but can Nintendo actually do anything about it? We asked legal experts to find out. https://t.co/t9TQ8PNG78",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-23T05:30:01.840973457Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2xca3hpzu22",
       "text": "Amazon and Target launch their best '3 for 2' sales on books, box sets, and vinyl for Black Friday https://bit.ly/4iXmxfF",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-20T20:31:10.391619482Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2rdzq5k5l27",
-      "text": "BREAKING: Rockstar Games has confirmed GTA 6 retail sales reached $3.79 billion in its first 24 hours, securing its place as the biggest entertainment launch of all time. https://bit.ly/4juqkkM",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-20T19:46:17.543690664Z",
       "platform": "Bluesky"
     }
   ]
