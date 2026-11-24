@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-24T21:02:28.417408+00:00",
+  "updated": "2026-11-24T23:05:23.142497+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n33ngdmtbc2p",
+      "text": "Rockstar's satire has reached new levels with in-game cartoons like Barnyard Blue and the dark comedy The Tyrone Show. https://bit.ly/4j15CsJ",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreicnyksralvmptkk5dcpyd5ghd4smiitpcgevm4c3im4lsbldppfka",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-24T22:01:01.672521653Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n33lqp2isf2b",
+      "text": "Magic: The Gathering's Wizards of the Coast is suing PrintMTG, which makes proxies, alleging a counterfeiting ring for the trading card game. https://bit.ly/3UMHJvK",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreicnyksralvmptkk5dcpyd5ghd4smiitpcgevm4c3im4lsbldppfka",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-24T21:31:01.720940222Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n33k32uoqc2w",
       "text": "Abby actor Laura Bailey reflects on how pre-release leaks and online misinformation made The Last of Us Part 2's backlash so much worse. https://bit.ly/4AOMT9D",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-23T14:31:01.562158082Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2yckeft542g",
-      "text": "The latest Avengers: Doomsday trailer is seemingly keeping some of its big cards close to its chest. https://bit.ly/4CkBv6S",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T14:08:26.341169822Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2yc54l5lf27",
-      "text": "Blade Runner 2099 is a disappointing continuation of the iconic series with miscast leads and a propensity to fan service.\n\nOur review of all eight episodes: https://bit.ly/4tgR5MX",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T14:01:01.917805019Z",
       "platform": "Bluesky"
     }
   ]
