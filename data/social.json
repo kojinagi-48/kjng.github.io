@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-24T15:11:42.717810+00:00",
+  "updated": "2026-11-24T17:12:00.287992+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n334dxfdbf2w",
+      "text": "Nioh 3 is coming to Xbox Series X/S in January, and its second story expansion arrives next month. gameinformer.com/2026/11/24/n...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-24T16:55:28.129Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n32xac2axf2q",
+      "text": "Grand Theft Auto VI reached its highest-ever concurrent player count on PlayStation 5, and players have already logged more than 683 million in-game hours (roughly 78,000 years). gameinformer.com/2026/11/24/g...",
+      "author": "Game Informer",
+      "handle": "gameinformer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-24T15:23:56.379Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n32wabkh2y2q",
       "text": "Blade Runner 2099 is a disappointing continuation of the iconic series with miscast leads and a propensity to fan service. \n\nOur review: https://bit.ly/4A42xOl",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-23T03:00:14Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2x57amljo24",
-      "text": "In Josephine, Mason Reeves delivers one of the most stunning child performances in recent memory, while Channing Tatum and Gemma Chan find uncomfortable new layers as a mother and father bound by their own upbringings.\n\nOur review: https://bit.ly/3WZxepr",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T03:00:04.821902787Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2x4ecvun22q",
-      "text": "Yes, we know you're all playing GTA 6, but don't forget to check out Street Trash 3: Dezombifier, the certified banger on Jason's JoySystem console.  https://bit.ly/4zXow9P",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T02:45:01.254876233Z",
       "platform": "Bluesky"
     }
   ]
