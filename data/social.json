@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-24T11:00:32.712531+00:00",
+  "updated": "2026-11-24T13:26:04.110351+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n32qlq2vxn2e",
+      "text": "ICYMI: Here's Another Look At The Zelda: Ocarina Of Time amiibo For Switch 2 (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-24T13:25:01+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n32k62j3r62q",
+      "text": "Cyberleek has released the executable file for the leaked Xbox build of GTA 6, sparking concern that an unofficial PC port could be around the corner. https://bit.ly/3WMUGX1",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-24T11:30:02.71662066Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n32ik5pb4y2u",
+      "text": "GameCube launch title Wave Race: Blue Storm is now available via the Nintendo Switch Online + Expansion Pack service. https://bit.ly/4eSaDBj",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-24T11:01:01.236765814Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n32iiirbq62m",
       "text": "Tiny Bookshop Sells 1 Million Copies, New DLC Expansion Announced",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-23T00:00:08.040827679Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2wrhzhxbk2s",
-      "text": "The years have been kind to one classic Dragon Quest game, even if it got a slow start.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-22T23:30:14Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2wrhowtsi2t",
-      "text": "Nintendo's first official Switch 2 Black Friday deal is live for a limited time, bundling a flagship game and free bonus perks while undoing September's price hike. https://bit.ly/4iXQe05",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-22T23:30:03.372217074Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2wo4f4jcx2t",
-      "text": "ICYMI: Clair Obscur: Expedition 33’s lead writer has left Sandfall to help other game developers think about story from the outset. https://t.co/IvxK8SwQMT",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-22T22:30:02.746765741Z",
       "platform": "Bluesky"
     }
   ]
