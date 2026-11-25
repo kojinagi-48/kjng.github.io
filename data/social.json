@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-25T07:31:41.826446+00:00",
+  "updated": "2026-11-25T09:20:41.544367+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n34saz5x4t2b",
+      "text": "Brad Pitt has given a promising update on the status of World War Z 2, a film that has been in development hell for over a decade. bit.ly/4laYGKL",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreicnyksralvmptkk5dcpyd5ghd4smiitpcgevm4c3im4lsbldppfka",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T09:00:11Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n34rxufumk2l",
+      "text": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T08:55:02+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n34j3hcgl62s",
       "text": "Disney’s Hexed is a safe, family-friendly original from Walt Disney Animation Studios that is unlikely to linger long in viewers’ minds.\n\nOur review: https://bit.ly/48K7bFo",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-23T19:16:01.285108629Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:6uxp3rsscwiewzrjs2sqgx7e/post/3n2yrtfjqna2q",
-      "text": "Have you listened to the latest episode of The Game Informer Show? We dive into the first chapter of Grand Theft Auto VI, share our favorite interactions, and discuss Jason and Lucia's refreshing dynamic. \n\nWATCH / LISTEN:\ngameinformer.com/video-podcas...",
-      "author": "Game Informer",
-      "handle": "gameinformer.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxp3rsscwiewzrjs2sqgx7e/bafkreiddvy4a27fxtf7wlikx7x6yok3cbkggf6mvdjzw5xpy44albnh6h4",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T18:41:55.642Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2yr7vt6nv2g",
-      "text": "GTA 6 players are debating the game's Criminal Profile system, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system. https://bit.ly/4AIE8xS",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T18:31:01.632342493Z",
       "platform": "Bluesky"
     }
   ]
