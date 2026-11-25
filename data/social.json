@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-25T09:20:41.544367+00:00",
+  "updated": "2026-11-25T11:06:17.772422+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n34yofw3we2b",
+      "text": "Pokémon Champions Is Adding Four More Mega Evolutions In A New Update Next Week (Repost)",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T10:55:02+00:00",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n34saz5x4t2b",
       "text": "Brad Pitt has given a promising update on the status of World War Z 2, a film that has been in development hell for over a decade. bit.ly/4laYGKL",
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-23T19:31:01.754682579Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2ytqegu3o2r",
-      "text": "Marvel Studios has confirmed that Hailee Steinfeld is returning as Kate Bishop in Avengers: Doomsday, with the Hawkeye star even making a brief appearance in the latest trailer. https://bit.ly/4j0j9Ra",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T19:16:01.285108629Z",
       "platform": "Bluesky"
     }
   ]
