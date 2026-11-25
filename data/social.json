@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-25T05:19:48.032318+00:00",
+  "updated": "2026-11-25T07:31:41.826446+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n34j3hcgl62s",
+      "text": "Disney’s Hexed is a safe, family-friendly original from Walt Disney Animation Studios that is unlikely to linger long in viewers’ minds.\n\nOur review: https://bit.ly/48K7bFo",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreicnyksralvmptkk5dcpyd5ghd4smiitpcgevm4c3im4lsbldppfka",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T06:16:01.209663456Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n34gkyaahj2u",
+      "text": "It's never too early to grab new ornaments for your Christmas Tree, and Black Friday has a deal on the PlayStation keepsake for $18 instead of it's usual $28.99. https://bit.ly/48EiMWA",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreicnyksralvmptkk5dcpyd5ghd4smiitpcgevm4c3im4lsbldppfka",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T05:31:01.055519192Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n34evdrxrf2j",
       "text": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4. https://bit.ly/3X1qnvN",
@@ -857,28 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-23T18:31:01.632342493Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2yr6ph6gl2r",
-      "text": "Nintendo just revealed more details about Kirby and the World Beyond.",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T18:30:21Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:4nci4ly3xu3nau7hzr373bte/post/3n2yprrk2j323",
-      "text": "Nominate CONTROL Resonant for Outstanding Visual Style in the Steam Awards!\n\nHere's how: https://ow.ly/KKV65108otl\n\n#CONTROLResonant",
-      "author": "Remedy Entertainment",
-      "handle": "remedygames.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4nci4ly3xu3nau7hzr373bte/bafkreiaqqpdfnl7kq4oumuv6a5vi262h35j3cy54jbllpgotsuws4imb7i",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-11-23T18:05:12.037764169Z",
       "platform": "Bluesky"
     }
   ]

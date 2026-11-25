@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T05:19:44.200117Z",
+  "updated": "2026-11-25T07:31:37.256239Z",
   "article_count": 240,
   "articles": [
     {
@@ -38,6 +38,15 @@
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/youtube/MSYV142dqsg.jpg",
       "published": "2026-11-25T04:08:53Z",
       "image_source": "Anime News Network"
+    },
+    {
+      "title": "Avengers: Doomsday Theory Breaks Down What Doom Is Really After (And It Includes More Big Surprises)",
+      "url": "https://comicbook.com/movies/feature/avengers-doomsday-theory-breaks-down-what-doom-is-really-after-and-it-includes-more-big-surprises/",
+      "source": "ComicBook.com",
+      "category": "Comics",
+      "summary": "Marvel Studios The final trailer for Avengers: Doomsday did a clever job of giving us some deeper insights into what the emotional core of the story will be. Steve Rogers (Chris Evans) will be presented with the dilemma of how his actions with the In",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Robert-Downey-Jr-wasnt-Doom-on-Avengers-Doomsday-Set.jpg?w=1056",
+      "published": "2026-11-25T03:59:00Z"
     },
     {
       "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
@@ -2168,15 +2177,6 @@
       "summary": "Grand Theft Auto 6 has plenty of fun Easter eggs --many of which tie back to earlier games in the series--but you can also find a few nods to other megapopular game franchises hiding within the vast map of Leonida. If you take a detour along the nort",
       "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Super-Jason-Bro.jpg?w=300",
       "published": "2026-11-23T17:05:35Z"
-    },
-    {
-      "title": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
-      "url": "https://www.ign.com/articles/gta-6-leaker-cyberleek-reportedly-releases-exe-file-for-xbox-build-sparking-concern-an-unofficial-pc-port-could-be-around-the-corner",
-      "source": "IGN",
-      "category": "Games",
-      "summary": "Cyberleek has reportedly made good on their promise and released the executable file for the leaked Xbox build of GTA 6, sparking concern that an unofficial PC port could be around the corner.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-37-1795453064677.jpg",
-      "published": "2026-11-23T16:59:53Z"
     }
   ]
 }
