@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-25T01:25:54.600914+00:00",
+  "updated": "2026-11-25T03:04:22.278172+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n344zcd4iz2b",
+      "text": "Pokémon Champions Is Adding More Mega Evolutions In A New Update Next Week",
+      "author": "Nintendo Life",
+      "handle": "nintendolife.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qap6gpor3iaifteqmkmqvklu/bafkreiambaj5uraw3xnds2zqjjobp6c6eitl53z37sct2mzmh2nt35qfce",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T02:40:02+00:00",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n344j4va242x",
+      "text": "GTA 6's first chapter has been somewhat divisive due to its slower pace, but it's also a part of the game that some fans have spent dozens of hours playing due to it highly immersive slice-of-life elements. https://bit.ly/4ANAJxH",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreicnyksralvmptkk5dcpyd5ghd4smiitpcgevm4c3im4lsbldppfka",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T02:31:01.410596754Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n342sssm7e2g",
+      "text": "The new game's day-one sales defy belief, but so does its big brother's long-term record",
+      "author": "Polygon",
+      "handle": "polygon.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-25T02:00:38Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:qap6gpor3iaifteqmkmqvklu/post/3n33ybcsmb32s",
       "text": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes",
@@ -846,39 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-23T17:01:02.9343606Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n2ym6ca7ss2q",
-      "text": "Rockstar is handling GTA 6's updates very differently than what players may be used to on major PS5 and Xbox games",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T17:00:38Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n2ylg2gjgi2n",
-      "text": "Check out new shots of the Avengers, X-Men, and Fantastic Four facing off against Doctor Doom in new images from Avengers: Doomsday.\n\nCheck out the final trailer: https://bit.ly/4A4q6Xm",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-23T16:47:05.332637356Z",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:4nci4ly3xu3nau7hzr373bte/post/3n2ykhzeeuy2d",
-      "text": "me when CONTROL Resonant is nominated for Best Art Direction in The Game Awards\n\n#CONTROLResonant",
-      "author": "Remedy Entertainment",
-      "handle": "remedygames.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4nci4ly3xu3nau7hzr373bte/bafkreiaqqpdfnl7kq4oumuv6a5vi262h35j3cy54jbllpgotsuws4imb7i",
-      "label": "OFFICIAL",
-      "language": "en",
-      "published": "2026-11-23T16:30:15.871025692Z",
       "platform": "Bluesky"
     }
   ]
