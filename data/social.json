@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-26T05:20:54.087125+00:00",
+  "updated": "2026-11-26T07:30:12.178880+00:00",
   "posts": [
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n373zihoem2b",
+      "text": "GTA 6's first chapter has been somewhat divisive due to its slower pace, but it's also a part of the game that some fans have spent dozens of hours playing due to it highly immersive slice-of-life elements. bit.ly/4tkHbcY",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-26T07:00:15Z",
+      "platform": "Bluesky"
+    },
+    {
+      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n372f6y4oj25",
+      "text": "The $449.99 LEGO Godzilla set coming on Black Friday is a bulky build that looks more impressive in person than it does on the box, but it's an bit one-noted.\n\nOur review: https://bit.ly/4AXWZoX",
+      "author": "IGN",
+      "handle": "ign.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
+      "label": "REPORTED",
+      "language": "en",
+      "published": "2026-11-26T06:31:01.117869529Z",
+      "platform": "Bluesky"
+    },
     {
       "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n36tomdlap25",
       "text": "Seeing family for the holidays or over the weekend? Here's an IGN Playlist with some options for games to break out and play! https://bit.ly/4iXDaI8",
@@ -21,17 +43,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-26T04:20:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:xwqgusybtrpm67tcwqdfmzvy/post/3n36ryxry7t27",
-      "text": "GTA 6's first chapter has been somewhat divisive due to its slower pace, but it's also a part of the game that some fans have spent dozens of hours playing due to it highly immersive slice-of-life elements. https://bit.ly/4ANAJxH",
-      "author": "IGN",
-      "handle": "ign.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwqgusybtrpm67tcwqdfmzvy/bafkreifjtza52etlgjuek5iuqwi7j7izlxuanffvizj2ry5s5g4dbh47ju",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-26T04:01:00.984480703Z",
       "platform": "Bluesky"
     },
     {
@@ -868,17 +879,6 @@
       "label": "REPORTED",
       "language": "en",
       "published": "2026-11-24T10:55:02+00:00",
-      "platform": "Bluesky"
-    },
-    {
-      "url": "https://bsky.app/profile/did:plc:ft4gwdn3b552cg4eidqfz7gm/post/3n32gtceqco2s",
-      "text": "The stats don't lie: GTA 6 smashed every record in Play Station history",
-      "author": "Polygon",
-      "handle": "polygon.com",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ft4gwdn3b552cg4eidqfz7gm/bafkreieixiqcdtetex2e76v6cohlnt3sghlet2lkajwlzbmunilh7pkbei",
-      "label": "REPORTED",
-      "language": "en",
-      "published": "2026-11-24T10:30:20Z",
       "platform": "Bluesky"
     }
   ]
